@@ -27,7 +27,7 @@ Do not wrap your response in markdown blocks (e.g., ```json).
 Rules:
 1. "state": "acceptance"
    - Use when: The input matches something in the scope (allowing for typos, case differences, or clear synonyms).
-   - "message": MUST say "This value is good and should be named [Standardized Name]".
+   - "message": MUST say "This value is good and should be named [Standardized Name] because [Your reason]".
    - "value": MUST be the exact Standardized Name from the scope.
 
 2. "state": "decline"
@@ -37,8 +37,8 @@ Rules:
 
 3. "state": "suggest"
    - Use when: The input is a valid item of the same category (e.g., a fruit) but is NOT in the scope.
-   - "message": MUST say "This value should be added to our scope".
-   - "value": MUST be the cleaned, properly capitalized name of the suggested new item.
+   - "message": MUST say "This value should be added to our scope because [Your reason]".
+   - "value": MUST be the cleaned name of the suggested new item.
 """
 
     headers = {
