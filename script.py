@@ -3,6 +3,7 @@ import json
 import csv
 import os
 import time
+import argparse
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -13,7 +14,6 @@ if not API_KEY:
 
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 MODEL = "google/gemma-4-26b-a4b-it:free"
-ALLOWED_SCOPE = ["Apple", "Banana", "Orange", "Strawberry"]
 
 def clean_value_with_llm(value_to_clean, scope):
     scope_string = ", ".join(scope)
@@ -64,7 +64,7 @@ Rules:
 
             if response.status_code == 429:
                 print(
-                    f"⚠️ Rate limited (429). Waiting {backoff_time} seconds before retry {attempt + 1}/{max_retries}...")
+                    f"Rate limited (429). Waiting {backoff_time} seconds before retry {attempt + 1}/{max_retries}...")
                 time.sleep(backoff_time)
                 backoff_time *= 2
                 continue
@@ -87,10 +87,25 @@ Rules:
 
     return {"state": "error", "message": "Failed due to repeated 429 Rate Limit errors.", "value": ""}
 
-def process_csv(filepath, scope):
-    print(f"Processing data from {filepath}...\n")
+def load_scope(filepath):
+    """Reads the scope.csv file and returns a list of allowed values."""
+    scope_list = []
+    with open(filepath, mode='r', encoding='utf-8') as file:
+        reader = csv.reader(file)
+        for i, row in enumerate(reader):
+            if not row:
+                continue
+            val = row[0].strip()
+            if i == 0 and val.lower() in ['scope', 'value', 'scope_value', 'allowed', 'name', 'raw_value']:
+                continue
+            if val:
+                scope_list.append(val)
+    return scope_list
 
-    with open(filepath, mode='r') as file:
+def process_csv(input_filepath, scope):
+    print(f"Processing data from {input_filepath}...\n")
+
+    with open(input_filepath, mode='r', encoding='utf-8') as file:
         reader = csv.DictReader(file)
 
         for row in reader:
@@ -107,5 +122,23 @@ def process_csv(filepath, scope):
             time.sleep(2)
 
 if __name__ == "__main__":
-    csv_filename = "input_data.csv"
-    process_csv(csv_filename, ALLOWED_SCOPE)
+    parser = argparse.ArgumentParser(description="Run LLM Data Cleaner on a specific test case folder.")
+    parser.add_argument("test_folder", help="Path to the folder containing scope.csv and input_data.csv")
+    args = parser.parse_args()
+
+    folder_path = args.test_folder
+    scope_file = os.path.join(folder_path, "scope.csv")
+    input_file = os.path.join(folder_path, "input_data.csv")
+
+    if not os.path.exists(scope_file):
+        print(f"Error: Could not find '{scope_file}'")
+        exit(1)
+    if not os.path.exists(input_file):
+        print(f"Error: Could not find '{input_file}'")
+        exit(1)
+
+    print(f"Loading test case from: {folder_path}")
+    current_scope = load_scope(scope_file)
+    print(f"Loaded Scope: {current_scope}\n" + "="*40)
+    
+    process_csv(input_file, current_scope)
