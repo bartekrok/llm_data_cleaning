@@ -1,0 +1,6 @@
+expected_state,expected_value,notes
+acceptance,France,typo
+acceptance,Italy,exact
+acceptance,Spain,Spanish endonym
+suggest,USA,not in 50-item European/post-Soviet scope
+acceptance,Poland,typo

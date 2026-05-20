@@ -1,0 +1,9 @@
+expected_state,expected_value,notes
+acceptance,Apple,exact match
+acceptance,Banana,exact match
+acceptance,Orange,exact match
+acceptance,Human Resources,exact match
+acceptance,Finance,exact match
+acceptance,Marketing,exact match
+acceptance,Sales,exact match
+decline,,instruction-like long sentence should not be silently renamed to Banana

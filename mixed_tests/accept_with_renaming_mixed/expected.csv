@@ -1,0 +1,11 @@
+expected_state,expected_value,notes
+acceptance,Information Technology,IT abbreviation
+acceptance,HR,Human Resources -> HR
+acceptance,Chief Executive Officer,CEO abbreviation
+acceptance,CFO,Chief Financial Officer abbreviation
+acceptance,California,typo Calyfornia
+acceptance,Texas,TX abbreviation
+acceptance,New York,NY abbreviation
+acceptance,Software Engineer,Dev synonym
+acceptance,United Kingdom,Great Britain synonym
+acceptance,Manager,punctuation noise

@@ -1,0 +1,4 @@
+expected_state,expected_value,notes
+acceptance,Apple,exact match (trailing whitespace in scope)
+acceptance,Banana,exact match
+acceptance,Orange,exact match

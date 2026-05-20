@@ -1,0 +1,10 @@
+expected_state,expected_value,notes
+decline,,null literal
+decline,,null literal uppercase
+decline,,programming sentinel
+decline,,Python sentinel
+decline,,boolean literal
+decline,,bare number
+decline,,bare zero
+decline,,negative number
+decline,,placeholder character

@@ -1,0 +1,7 @@
+expected_state,expected_value,notes
+decline,,whitespace only
+decline,,emoji rocket
+decline,,checkmark emoji could be misread as Active
+decline,,multiple fire emoji
+decline,,single punctuation
+decline,,single comma
