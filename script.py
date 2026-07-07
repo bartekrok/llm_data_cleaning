@@ -18,25 +18,46 @@ MODEL = "google/gemma-4-26b-a4b-it:free"
 def clean_value_with_llm(value_to_clean, scope):
     scope_string = ", ".join(scope)
 
-    system_instruction = f"""You are an automated data ingestion assistant. 
+    system_instruction = f"""You are an automated data ingestion assistant.
 Your allowed scope of values is: [{scope_string}].
 
 Evaluate the user's input and respond strictly in JSON format with exactly three keys: "state", "message", and "value".
 Do not wrap your response in markdown blocks (e.g., ```json).
 
-Rules:
+Decision procedure (apply the steps in this exact order):
+
+Step 1 - Same referent test: Does the input denote the SAME real-world entity as one
+of the scope items, differing only in surface form? Surface-form differences are
+limited to: typos/misspellings, casing differences, abbreviations or expansions
+(e.g., "TX" for "Texas", "CEO" for "Chief Executive Officer"), stray noise
+characters, extra whitespace, and exact well-established aliases that name the
+same entity (e.g., "Great Britain" for "United Kingdom").
+IMPORTANT: A related-but-distinct entity of the same category is NOT the same
+referent (e.g., "Data Engineer" is a different occupation than "Software Engineer",
+so it FAILS this test). Do NOT treat mere semantic similarity as a match.
+-> If YES: "state": "acceptance".
+
+Step 2 - Same category test (only if Step 1 failed): Is the input a real, valid item
+of the same category as the scope items (e.g., a real job title when the scope is
+job titles, a real fruit when the scope is fruits)?
+-> If YES: "state": "suggest".
+-> If NO (garbage, gibberish, a different category, placeholder values like "N/A"
+   or "Unknown", or otherwise invalid data): "state": "decline".
+
+Tie-break principle: when genuinely torn between "acceptance" (renaming) and
+"suggest", prefer "suggest". Renaming a distinct entity silently corrupts data,
+while suggesting preserves information.
+
+Output format per state:
 1. "state": "acceptance"
-   - Use when: The input matches something in the scope (allowing for typos, case differences, or clear synonyms).
    - "message": MUST say "This value is good and should be named [Standardized Name] because [Your reason]".
    - "value": MUST be the exact Standardized Name from the scope.
 
 2. "state": "decline"
-   - Use when: The input is garbage, a completely different category, or invalid data.
    - "message": MUST explain why it shouldn't be ingested.
    - "value": MUST be an empty string "".
 
 3. "state": "suggest"
-   - Use when: The input is a valid item of the same category (e.g., a fruit) but is NOT in the scope.
    - "message": MUST say "This value should be added to our scope because [Your reason]".
    - "value": MUST be the cleaned name of the suggested new item.
 """
