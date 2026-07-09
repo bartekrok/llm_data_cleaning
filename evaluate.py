@@ -52,14 +52,16 @@ Usage:
 
 import argparse
 import csv
+import datetime
 import json
 import os
 import re
+import sqlite3
 import sys
 import time
 from collections import Counter, defaultdict
 
-from script import clean_value_with_llm, load_scope, API_URL, API_KEY
+from script import clean_value_with_llm, load_scope, API_URL, API_KEY, MODEL
 
 STATES = ["acceptance", "suggest", "decline", "error"]
 SLEEP_BETWEEN_CALLS = 2  # seconds, mirrors script.py
@@ -238,6 +240,86 @@ def validate_entry(entry, pred_state, pred_value, raw_value, scope, judge):
 
 
 # ---------------------------------------------------------------------------
+# Results database (--db): one row per prediction, queryable for heatmaps etc.
+# ---------------------------------------------------------------------------
+
+KNOWN_ROOTS = {"large_tests", "not_mixed_tests", "mixed_tests"}
+
+
+def split_scenario(folder):
+    """'large_tests/suggestion/animals' -> ('suggestion', 'animals')."""
+    parts = [p for p in os.path.normpath(folder).split(os.sep) if p not in (".", "")]
+    for i, p in enumerate(parts):
+        if p in KNOWN_ROOTS:
+            scenario = parts[i + 1] if len(parts) > i + 1 else ""
+            domain = parts[i + 2] if len(parts) > i + 2 else ""
+            return scenario, domain
+    if len(parts) >= 2:
+        return parts[-2], parts[-1]
+    return (parts[0] if parts else "", "")
+
+
+def init_db(path):
+    conn = sqlite3.connect(path)
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS runs (
+            run_id        INTEGER PRIMARY KEY AUTOINCREMENT,
+            timestamp     TEXT NOT NULL,
+            model         TEXT NOT NULL,
+            judge_enabled INTEGER NOT NULL,
+            judge_model   TEXT,
+            repeats       INTEGER NOT NULL,
+            path          TEXT NOT NULL
+        )""")
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS results (
+            id           INTEGER PRIMARY KEY AUTOINCREMENT,
+            run_id       INTEGER NOT NULL REFERENCES runs(run_id),
+            scenario     TEXT,
+            domain       TEXT,
+            folder       TEXT NOT NULL,
+            raw_value    TEXT NOT NULL,
+            run_n        INTEGER NOT NULL,
+            gold_state   TEXT NOT NULL,
+            ambiguous    INTEGER NOT NULL,
+            pred_state   TEXT NOT NULL,
+            pred_value   TEXT,
+            strict       INTEGER NOT NULL,
+            lenient      INTEGER NOT NULL,
+            matched_tier TEXT,
+            message      TEXT
+        )""")
+    conn.commit()
+    return conn
+
+
+def start_run(conn, args):
+    cur = conn.execute(
+        "INSERT INTO runs (timestamp, model, judge_enabled, judge_model, repeats, path) "
+        "VALUES (?, ?, ?, ?, ?, ?)",
+        (datetime.datetime.now().isoformat(timespec="seconds"), MODEL,
+         int(args.judge), args.judge_model if args.judge else None,
+         args.repeats, args.path))
+    conn.commit()
+    return cur.lastrowid
+
+
+def save_records(conn, run_id, records):
+    rows = []
+    for r in records:
+        scenario, domain = split_scenario(r["folder"])
+        rows.append((run_id, scenario, domain, r["folder"], r["raw_value"],
+                     r["run"], r["gold_state"], int(r["ambiguous"]),
+                     r["pred_state"], r["pred_value"], int(r["strict"]),
+                     int(r["lenient"]), r["matched_tier"], r["message"]))
+    conn.executemany(
+        "INSERT INTO results (run_id, scenario, domain, folder, raw_value, run_n, "
+        "gold_state, ambiguous, pred_state, pred_value, strict, lenient, "
+        "matched_tier, message) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)", rows)
+    conn.commit()
+
+
+# ---------------------------------------------------------------------------
 # Evaluation loop
 # ---------------------------------------------------------------------------
 
@@ -391,6 +473,9 @@ def main():
     parser.add_argument("--judge-model", default="openai/gpt-4o-mini",
                         help="Judge model (should differ from the model under test)")
     parser.add_argument("--out", default=None, help="Optional path to write full results + summary as JSON")
+    parser.add_argument("--db", default=None,
+                        help="Optional SQLite file; appends one 'runs' row and one 'results' row "
+                             "per prediction for post-run analysis (see queries.md)")
     args = parser.parse_args()
 
     folders = find_test_folders(args.path)
@@ -399,10 +484,19 @@ def main():
         sys.exit(1)
 
     judge = Judge(args.judge_model, enabled=args.judge)
+    conn = run_id = None
+    if args.db:
+        conn = init_db(args.db)
+        run_id = start_run(conn, args)
+        print(f"Recording to {args.db} as run_id={run_id}")
+
     all_records = []
     for folder in folders:
         print(f"\n### {folder}")
-        all_records.extend(evaluate_folder(folder, args.repeats, judge))
+        records = evaluate_folder(folder, args.repeats, judge)
+        if conn:
+            save_records(conn, run_id, records)  # incremental: partial runs are kept
+        all_records.extend(records)
 
     summary = summarize(all_records, judge)
     print_summary(summary)

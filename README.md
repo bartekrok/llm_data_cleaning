@@ -48,6 +48,17 @@ a confusion matrix over states, per-class precision/recall/F1, and which
 validation tier resolved each correct verdict. Use --repeats to measure
 output stability across runs.
 
+## Results database
+Add --db to any run to record every prediction in SQLite for querying and
+visualization (confusion-matrix heatmaps, per-scenario accuracy, stability):
+
+    python evaluate.py not_mixed_tests --repeats 5 --db results.sqlite
+
+Tables: runs (one row per invocation: model, judge, repeats, timestamp) and
+results (one row per prediction: scenario, domain, raw_value, gold_state,
+pred_state, pred_value, strict, lenient, matched_tier). See queries.md for
+ready-made SQL and seaborn heatmap snippets.
+
 Methodology note: validate the validator -- hand-label a stratified sample
 (oversampling suggest cases), compare against the automated verdicts, and
 report the agreement rate. If the judge tier is used, report judge-human
