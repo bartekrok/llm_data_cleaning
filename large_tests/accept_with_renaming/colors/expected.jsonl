@@ -1,0 +1,138 @@
+{"raw_value": "Alice Blue##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Alice Blue"]}}]}
+{"raw_value": "Antique White??", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Antique White"]}}]}
+{"raw_value": "Aua", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Aqua"]}}]}
+{"raw_value": "Aquamarien", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Aquamarine"]}}]}
+{"raw_value": "Azure!@#", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Azure"]}}]}
+{"raw_value": "BEIGE", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Beige"]}}]}
+{"raw_value": "Bsique", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Bisque"]}}]}
+{"raw_value": "BLACK", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Black"]}}]}
+{"raw_value": "Blanhced Almond", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Blanched Almond"]}}]}
+{"raw_value": "Blu", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Blue"]}}]}
+{"raw_value": "Blue Violet??", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Blue Violet"]}}]}
+{"raw_value": "BBrown", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Brown"]}}]}
+{"raw_value": "Burlywod", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Burlywood"]}}]}
+{"raw_value": "Caadet Blue", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Cadet Blue"]}}]}
+{"raw_value": "Chartreues", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Chartreuse"]}}]}
+{"raw_value": "Chocolate##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Chocolate"]}}]}
+{"raw_value": "CORAL", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Coral"]}}]}
+{"raw_value": "Coornflower Blue", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Cornflower Blue"]}}]}
+{"raw_value": "cornsilk", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Cornsilk"]}}]}
+{"raw_value": "Crison", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Crimson"]}}]}
+{"raw_value": "Cyna", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Cyan"]}}]}
+{"raw_value": "Dark Blue##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dark Blue"]}}]}
+{"raw_value": "dark cyan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dark Cyan"]}}]}
+{"raw_value": "dark goldenrod", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dark Goldenrod"]}}]}
+{"raw_value": "Dark Gay", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dark Gray"]}}]}
+{"raw_value": "dark green", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dark Green"]}}]}
+{"raw_value": "dark khaki", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dark Khaki"]}}]}
+{"raw_value": "Dark Magenta***", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dark Magenta"]}}]}
+{"raw_value": "DARK OLIVE GREEN", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dark Olive Green"]}}]}
+{"raw_value": "Dark Orange!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dark Orange"]}}]}
+{"raw_value": "dark orchid", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dark Orchid"]}}]}
+{"raw_value": "dark red", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dark Red"]}}]}
+{"raw_value": "Drak Salmon", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dark Salmon"]}}]}
+{"raw_value": "Dark Sea GGreen", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dark Sea Green"]}}]}
+{"raw_value": "Dark Slate Blue***", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dark Slate Blue"]}}]}
+{"raw_value": "DARK SLATE GRAY", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dark Slate Gray"]}}]}
+{"raw_value": "aDrk Turquoise", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dark Turquoise"]}}]}
+{"raw_value": "dark violet", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dark Violet"]}}]}
+{"raw_value": "Deep Pikn", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Deep Pink"]}}]}
+{"raw_value": "Deep Syk Blue", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Deep Sky Blue"]}}]}
+{"raw_value": "Dim Grya", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dim Gray"]}}]}
+{"raw_value": "Dodger Blue??", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dodger Blue"]}}]}
+{"raw_value": "Firrebrick", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Firebrick"]}}]}
+{"raw_value": "Floral White##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Floral White"]}}]}
+{"raw_value": "FOREST GREEN", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Forest Green"]}}]}
+{"raw_value": "FUCHSIA", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Fuchsia"]}}]}
+{"raw_value": "Gainnsboro", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Gainsboro"]}}]}
+{"raw_value": "Ghost Wite", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Ghost White"]}}]}
+{"raw_value": "GOLD", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Gold"]}}]}
+{"raw_value": "goldenrod", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Goldenrod"]}}]}
+{"raw_value": "GGray", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Gray"]}}]}
+{"raw_value": "Geren", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Green"]}}]}
+{"raw_value": "Green Yelloww", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Green Yellow"]}}]}
+{"raw_value": "Hoeydew", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Honeydew"]}}]}
+{"raw_value": "Hot Piink", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Hot Pink"]}}]}
+{"raw_value": "Indain Red", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Indian Red"]}}]}
+{"raw_value": "INDIGO", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Indigo"]}}]}
+{"raw_value": "IIvory", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Ivory"]}}]}
+{"raw_value": "Khkai", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Khaki"]}}]}
+{"raw_value": "lavender", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lavender"]}}]}
+{"raw_value": "Lavedner Blush", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lavender Blush"]}}]}
+{"raw_value": "LAWN GREEN", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lawn Green"]}}]}
+{"raw_value": "Lemon Chfifon", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lemon Chiffon"]}}]}
+{"raw_value": "LIGHT BLUE", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Light Blue"]}}]}
+{"raw_value": "light coral", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Light Coral"]}}]}
+{"raw_value": "Light Cyan##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Light Cyan"]}}]}
+{"raw_value": "Light Goldenrod##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Light Goldenrod"]}}]}
+{"raw_value": "Light Graay", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Light Gray"]}}]}
+{"raw_value": "LIGHT GREEN", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Light Green"]}}]}
+{"raw_value": "Ligt Pink", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Light Pink"]}}]}
+{"raw_value": "light salmon", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Light Salmon"]}}]}
+{"raw_value": "Light Sea Grene", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Light Sea Green"]}}]}
+{"raw_value": "light sky blue", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Light Sky Blue"]}}]}
+{"raw_value": "Light Slate Gray##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Light Slate Gray"]}}]}
+{"raw_value": "Light Steell Blue", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Light Steel Blue"]}}]}
+{"raw_value": "Light Yelolw", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Light Yellow"]}}]}
+{"raw_value": "Lime Green!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lime Green"]}}]}
+{"raw_value": "Linen##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Linen"]}}]}
+{"raw_value": "Magenta***", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Magenta"]}}]}
+{"raw_value": "Maroon***", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Maroon"]}}]}
+{"raw_value": "Medium Aquamaarine", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Medium Aquamarine"]}}]}
+{"raw_value": "Medium Blue!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Medium Blue"]}}]}
+{"raw_value": "Mediuum Orchid", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Medium Orchid"]}}]}
+{"raw_value": "Mediuum Purple", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Medium Purple"]}}]}
+{"raw_value": "Medium Seaa Green", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Medium Sea Green"]}}]}
+{"raw_value": "Medium SSlate Blue", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Medium Slate Blue"]}}]}
+{"raw_value": "Medium Sprng Green", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Medium Spring Green"]}}]}
+{"raw_value": "MEDIUM TURQUOISE", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Medium Turquoise"]}}]}
+{"raw_value": "MEDIUM VIOLET RED", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Medium Violet Red"]}}]}
+{"raw_value": "MIDNIGHT BLUE", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Midnight Blue"]}}]}
+{"raw_value": "mint cream", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mint Cream"]}}]}
+{"raw_value": "Misty Rose!@#", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Misty Rose"]}}]}
+{"raw_value": "Moccasin##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Moccasin"]}}]}
+{"raw_value": "Navajo White***", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Navajo White"]}}]}
+{"raw_value": "Navy??", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Navy"]}}]}
+{"raw_value": "Old Lcae", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Old Lace"]}}]}
+{"raw_value": "olive", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Olive"]}}]}
+{"raw_value": "Olive Drabb", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Olive Drab"]}}]}
+{"raw_value": "Orang", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Orange"]}}]}
+{"raw_value": "Oraange Red", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Orange Red"]}}]}
+{"raw_value": "Orchhid", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Orchid"]}}]}
+{"raw_value": "Paale Goldenrod", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Pale Goldenrod"]}}]}
+{"raw_value": "PALE GREEN", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Pale Green"]}}]}
+{"raw_value": "PALE TURQUOISE", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Pale Turquoise"]}}]}
+{"raw_value": "Pale Violet eRd", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Pale Violet Red"]}}]}
+{"raw_value": "Papaya hWip", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Papaya Whip"]}}]}
+{"raw_value": "Peach Pufff", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Peach Puff"]}}]}
+{"raw_value": "Pink!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Pink"]}}]}
+{"raw_value": "Plum??", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Plum"]}}]}
+{"raw_value": "Powder lue", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Powder Blue"]}}]}
+{"raw_value": "Puurple", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Purple"]}}]}
+{"raw_value": "Reecca Purple", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Rebecca Purple"]}}]}
+{"raw_value": "RED", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Red"]}}]}
+{"raw_value": "Rosy Browwn", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Rosy Brown"]}}]}
+{"raw_value": "Royal Bleu", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Royal Blue"]}}]}
+{"raw_value": "Saddle rBown", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Saddle Brown"]}}]}
+{"raw_value": "Salmon***", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Salmon"]}}]}
+{"raw_value": "Sandy Borwn", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Sandy Brown"]}}]}
+{"raw_value": "Sea Grreen", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Sea Green"]}}]}
+{"raw_value": "Seashell!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Seashell"]}}]}
+{"raw_value": "SSienna", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Sienna"]}}]}
+{"raw_value": "Silver!@#", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Silver"]}}]}
+{"raw_value": "Sky lue", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Sky Blue"]}}]}
+{"raw_value": "Salte Blue", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Slate Blue"]}}]}
+{"raw_value": "Slate Gra", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Slate Gray"]}}]}
+{"raw_value": "SNOW", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Snow"]}}]}
+{"raw_value": "Spring Gree", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Spring Green"]}}]}
+{"raw_value": "Steel Blue##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Steel Blue"]}}]}
+{"raw_value": "tan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Tan"]}}]}
+{"raw_value": "Tel", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Teal"]}}]}
+{"raw_value": "THISTLE", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Thistle"]}}]}
+{"raw_value": "Turrquoise", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Turquoise"]}}]}
+{"raw_value": "Vioelt", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Violet"]}}]}
+{"raw_value": "WHEAT", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Wheat"]}}]}
+{"raw_value": "Whiet", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["White"]}}]}
+{"raw_value": "White mSoke", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["White Smoke"]}}]}
+{"raw_value": "YELLOW", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Yellow"]}}]}
+{"raw_value": "Yelow Green", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Yellow Green"]}}]}

@@ -1,0 +1,1162 @@
+{"raw_value": "pdjvpmmnssbgzx", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Radium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Prolog", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Darmstadtium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "A stranger described their favorite movie in this cell", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Naavy", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Navy"]}}]}
+{"raw_value": "Mandill", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mandrill"]}}]}
+{"raw_value": "Columbus", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Kyrgyzstn", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Kyrgyzstan"]}}]}
+{"raw_value": "Seychelles", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Medium Slate Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Coballt", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Cobalt"]}}]}
+{"raw_value": "El Salvador", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Lithim", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lithium"]}}]}
+{"raw_value": "Niger", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Niger"]}}]}
+{"raw_value": "Uranium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "lsldtpxppv", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "cqqgmvdkh", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Kazakhstan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Kazakhstan"]}}]}
+{"raw_value": "Sky Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "N.A.", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Cow", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Cow"]}}]}
+{"raw_value": "mbknhqk", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Brunei", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Yellow Gree", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Yellow Green"]}}]}
+{"raw_value": "skzskhsvfznhk", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Hummingbird", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Violet", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Leeds", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "tpjxqsjszlwsf", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Dominia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dominica"]}}]}
+{"raw_value": "Elk", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Serbiia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Serbia"]}}]}
+{"raw_value": "Lyn", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lynx"]}}]}
+{"raw_value": "ppklscnslhj", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Fiji", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "qmzfkkl", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Iron", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "PAL", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["APL"]}}]}
+{"raw_value": "Francee", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["France"]}}]}
+{"raw_value": "Shrak", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Shark"]}}]}
+{"raw_value": "Colombia", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Gray", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "xhshvgsbzcw", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Tennessine", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Tennessine"]}}]}
+{"raw_value": "Falcon", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Our team wrote a long note about their weekend plans", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "tjlfndstk", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Scandium***", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Scandium"]}}]}
+{"raw_value": "wxjztmx", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Linen", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Switf", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Swift"]}}]}
+{"raw_value": "(blank)", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Magenta??", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Magenta"]}}]}
+{"raw_value": "Honduras", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Honduras"]}}]}
+{"raw_value": "Piig", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Pig"]}}]}
+{"raw_value": "fjxmvw", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "gxvqsbtqrcm", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Bor", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Boar"]}}]}
+{"raw_value": "Swift!@#", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Swift"]}}]}
+{"raw_value": "Yelllow", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Yellow"]}}]}
+{"raw_value": "Flamingo", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "dhlqjkpdnsfvl", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "hkndjtjxzbcqj", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "PRG", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["RPG"]}}]}
+{"raw_value": "Maroon", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Maroon"]}}]}
+{"raw_value": "APPL", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["APL"]}}]}
+{"raw_value": "(empty)", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Sltoh", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Sloth"]}}]}
+{"raw_value": "Navajo White", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "VHDL", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Zirconium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "JavaScipt", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["JavaScript"]}}]}
+{"raw_value": "Indium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Greece", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Jackal", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Beige", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Durban", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "undefined", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "npcgzfq", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "SSea Green", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Sea Green"]}}]}
+{"raw_value": "Ireland", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Kiribati", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Burkina Faso", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "aKzakhstan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Kazakhstan"]}}]}
+{"raw_value": "Sccandium", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Scandium"]}}]}
+{"raw_value": "Crocodile", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "MATLAB", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["MATLAB"]}}]}
+{"raw_value": "TBA", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Steel Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Apex", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Eindhoven", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "???", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Spain!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Spain"]}}]}
+{"raw_value": "lxlbztr", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "vldprbwgfks", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Iceland", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Cyprus", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Bron", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Brown"]}}]}
+{"raw_value": "Rf", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Rutherfordium"]}}]}
+{"raw_value": "Peacock", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dodger Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Starfish", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Cyan", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "ncgkhxbgvg", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "The intern left this comment during testing", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Berkelium", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Berkelium"]}}]}
+{"raw_value": "--", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Morrocco", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Morocco"]}}]}
+{"raw_value": "Cwo", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Cow"]}}]}
+{"raw_value": "bljwtwtnknst", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Rhnioceros", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Rhinoceros"]}}]}
+{"raw_value": "Mojo", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "jdmxxw", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "mmfphxv", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "mqplznbbn", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "hswhbszsxx", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "rzqwdptxbk", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "New Zealand", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Sudan", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "gvmbkpxp", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "vpbxrc", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "mftgdnrggxmxj", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Armeniaa", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Armenia"]}}]}
+{"raw_value": "Cerium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "gzzvdzxrb", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Tan", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Mole", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Lebanon", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Gold", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "nkdzmz", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Bismuth", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Bismuth"]}}]}
+{"raw_value": "Honolulu", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "bnvtthhdrmfsn", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Crimson", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Crimson"]}}]}
+{"raw_value": "fhjftzpnrjjdvp", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "BBerkelium", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Berkelium"]}}]}
+{"raw_value": "Abidjan", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Thistle", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Ivory", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "hButan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Bhutan"]}}]}
+{"raw_value": "North Macedonia", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "bstcmqcpqvsrff", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "India", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["India"]}}]}
+{"raw_value": "Bosnia and Herzegovina??", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Bosnia and Herzegovina"]}}]}
+{"raw_value": "JavaScript", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["JavaScript"]}}]}
+{"raw_value": "Dog", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dog"]}}]}
+{"raw_value": "fvtwnfzk", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Goldenrod", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Goldenrod"]}}]}
+{"raw_value": "Duck", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Belarus??", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Belarus"]}}]}
+{"raw_value": "Kyrgyyzstan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Kyrgyzstan"]}}]}
+{"raw_value": "lfzsvptnwpfh", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "South Africa", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Khaki", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Australia", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "GGerbil", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Gerbil"]}}]}
+{"raw_value": "My neighbor left this comment during testing", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Silevr", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Silver"]}}]}
+{"raw_value": "fwmgpms", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Crystal", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Gosu", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Armenai", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Armenia"]}}]}
+{"raw_value": "Mauirtania", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mauritania"]}}]}
+{"raw_value": "Milwaukee", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lawn Green", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "sxbvkjpcqfnvd", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Inndia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["India"]}}]}
+{"raw_value": "Light Salmon", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Turkkmenistan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Turkmenistan"]}}]}
+{"raw_value": "Cow!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Cow"]}}]}
+{"raw_value": "srwsgzbmttlgn", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Forth", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "bnfmrbsl", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Oman", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Oman"]}}]}
+{"raw_value": "Boronn", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Boron"]}}]}
+{"raw_value": "Sa Green", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Sea Green"]}}]}
+{"raw_value": "Vanuatu", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "MATLAB##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["MATLAB"]}}]}
+{"raw_value": "dhbwswcptgdp", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Serbi", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Serbia"]}}]}
+{"raw_value": "Jordan!@#", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Jordan"]}}]}
+{"raw_value": "Platinum", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dark Sllate Blue", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dark Slate Blue"]}}]}
+{"raw_value": "My neighbor wrote a long note about their weekend plans", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "wknlwvmsfh", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "The previous vendor described their favorite movie in this cell", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Russia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Russia"]}}]}
+{"raw_value": "ldhsclzj", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "qxrrrjb", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lutetium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Elephant!@#", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Elephant"]}}]}
+{"raw_value": "Caribou", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Brown", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Brown"]}}]}
+{"raw_value": "Chromium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Antimony", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Hyderabad", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "knrglk", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Chlorine", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Goldenrod##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Goldenrod"]}}]}
+{"raw_value": "Bialystok", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Neon", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Neon"]}}]}
+{"raw_value": "Tecnetium", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Technetium"]}}]}
+{"raw_value": "Cobalt", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Cobalt"]}}]}
+{"raw_value": "ctxfvdnvxxw", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Madagascar", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Madagascar"]}}]}
+{"raw_value": "Erbium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Joran", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Jordan"]}}]}
+{"raw_value": "jqphbjspvjbxmn", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Nobody pasted the wrong clipboard content here", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Pascal", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "qtklpzntqmck", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Ts", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Tennessine"]}}]}
+{"raw_value": "Pal Green", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Pale Green"]}}]}
+{"raw_value": "wmmxlffqjd", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "krzpsgs", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Brazil", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "hjfkjmvmnvtfmz", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Elm", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Strontium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Thimphu", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "fsrxhtmkvf", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Antwerp", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Chad", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Swiftt", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Swift"]}}]}
+{"raw_value": "Jordaan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Jordan"]}}]}
+{"raw_value": "Nigr", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Niger"]}}]}
+{"raw_value": "Vulture", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Guatemalaa", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Guatemala"]}}]}
+{"raw_value": "tdhwnhlq", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Quail", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Quail"]}}]}
+{"raw_value": "svrbqxmbzqb", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Mozambique", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Armenia***", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Armenia"]}}]}
+{"raw_value": "TBD", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Macaw", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Nd", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Neodymium"]}}]}
+{"raw_value": "N/A", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Zagreb", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Dark Orchid", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "void", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Terbium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dark Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "lvfsbbqrqfppm", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Pink", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Seashell??", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Seashell"]}}]}
+{"raw_value": "Guinea-Bissau", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Austria", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Austria"]}}]}
+{"raw_value": "Phosphorus!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Phosphorus"]}}]}
+{"raw_value": "qsfwdnkpgktjqc", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Pheasant", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Pheasant"]}}]}
+{"raw_value": "Comoros", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Helium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Sloth", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Sloth"]}}]}
+{"raw_value": "Jnet", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Janet"]}}]}
+{"raw_value": "Vatican City", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "JaavaScript", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["JavaScript"]}}]}
+{"raw_value": "White##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["White"]}}]}
+{"raw_value": "Sallmon", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Salmon"]}}]}
+{"raw_value": "Crane", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Crane"]}}]}
+{"raw_value": "At", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Astatine"]}}]}
+{"raw_value": "Antelope", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "hxpvbqrcdjv", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Botwsana", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Botswana"]}}]}
+{"raw_value": "hrqxjkpdklgq", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "V", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "shhqmbwnsh", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "APL??", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["APL"]}}]}
+{"raw_value": "My neighbor pasted the wrong clipboard content here", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "zcwcpf", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Antiuqe White", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Antique White"]}}]}
+{"raw_value": "Frace", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["France"]}}]}
+{"raw_value": "wkslxcszstx", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Ballerina", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Stork!@#", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Stork"]}}]}
+{"raw_value": "The manager accidentally typed this into the wrong field", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "#REF!", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Stork", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Stork"]}}]}
+{"raw_value": "Unknown", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Someone described their favorite movie in this cell", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Malta", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Hs", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Hassium"]}}]}
+{"raw_value": "Snow", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Li", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lithium"]}}]}
+{"raw_value": "kppnvbzz", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Cali", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Squirrel", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Netw", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Newt"]}}]}
+{"raw_value": "Uanda", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Uganda"]}}]}
+{"raw_value": "MATLA", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["MATLAB"]}}]}
+{"raw_value": "wqdgbnxljvzs", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Objective-C", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Teal", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "hhqwrpjrzl", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Uganda!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Uganda"]}}]}
+{"raw_value": "Tehran", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Ne", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Neon"]}}]}
+{"raw_value": "RPG", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["RPG"]}}]}
+{"raw_value": "Lanthanum", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Nightingale", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Toronto", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Nobody described their favorite movie in this cell", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Eiffel", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Cadet Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Mageta", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Magenta"]}}]}
+{"raw_value": "Magneta", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Magenta"]}}]}
+{"raw_value": "Frog", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "nil", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "A stranger left this comment during testing", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Brownn", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Brown"]}}]}
+{"raw_value": "France", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["France"]}}]}
+{"raw_value": "Aluminum", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "hkkshczlwl", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "wwwdcsxvkk", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Cile", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Chile"]}}]}
+{"raw_value": "Bear", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "BBoar", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Boar"]}}]}
+{"raw_value": "Slloth", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Sloth"]}}]}
+{"raw_value": "Myanmar", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Lemon Chiffon##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lemon Chiffon"]}}]}
+{"raw_value": "lxfhprng", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Badger", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Bsmuth", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Bismuth"]}}]}
+{"raw_value": "Walrus", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Rio de Janeiro", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Mule", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "PureScript??", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["PureScript"]}}]}
+{"raw_value": "Plutonium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Belarus", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Belarus"]}}]}
+{"raw_value": "wldvjljslcfvht", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "RPG##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["RPG"]}}]}
+{"raw_value": "Bulgaria", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Palau", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Opossum", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Phsphorus", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Phosphorus"]}}]}
+{"raw_value": "Mn", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Manganese"]}}]}
+{"raw_value": "Jordan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Jordan"]}}]}
+{"raw_value": "Bahrain", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "United Kingdom", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "CffeeScript", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["CoffeeScript"]}}]}
+{"raw_value": "Autria", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Austria"]}}]}
+{"raw_value": "Bahamas", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Scratch", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Maoron", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Maroon"]}}]}
+{"raw_value": "Lavender", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lavender"]}}]}
+{"raw_value": "Paraguay", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Zambbia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Zambia"]}}]}
+{"raw_value": "Pale Green", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Pale Green"]}}]}
+{"raw_value": "Antique White", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Antique White"]}}]}
+{"raw_value": "flllvn", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "wnqphtdnpzwknm", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Bhutan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Bhutan"]}}]}
+{"raw_value": "Dakr Slate Blue", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dark Slate Blue"]}}]}
+{"raw_value": "Doog", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dog"]}}]}
+{"raw_value": "My neighbor entered free text instead of a valid option", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Liberia", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Camel", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Kuwait", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Rutherfordium***", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Rutherfordium"]}}]}
+{"raw_value": "Komodo Dragon", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Copenhagen", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "aHxe", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Haxe"]}}]}
+{"raw_value": "Light Goldenrod", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Borno", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Boron"]}}]}
+{"raw_value": "Hawk", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "R", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "oRoster", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Rooster"]}}]}
+{"raw_value": "-", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Rhinoceros", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Rhinoceros"]}}]}
+{"raw_value": "Ytterbium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "fcscnfwljzbn", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Orannge", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Orange"]}}]}
+{"raw_value": "Vanadium!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Vanadium"]}}]}
+{"raw_value": "Cameroon", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Scandium", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Scandium"]}}]}
+{"raw_value": "Goldeenrod", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Goldenrod"]}}]}
+{"raw_value": "Russsia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Russia"]}}]}
+{"raw_value": "Scanidum", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Scandium"]}}]}
+{"raw_value": "Hobart", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "fvmvfz", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Go", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Go"]}}]}
+{"raw_value": "Bosnia and Herzegvina", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Bosnia and Herzegovina"]}}]}
+{"raw_value": "Our team entered free text instead of a valid option", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Fortran", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "The customer entered free text instead of a valid option", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Poznan", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Gadolinium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Groovy", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Japan", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Netherlands", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Otetr", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Otter"]}}]}
+{"raw_value": "COBOL", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "The manager pasted the wrong clipboard content here", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "null", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Manganese", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Manganese"]}}]}
+{"raw_value": "Pheasantt", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Pheasant"]}}]}
+{"raw_value": "Morocco", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Morocco"]}}]}
+{"raw_value": "Lawrecnium", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lawrencium"]}}]}
+{"raw_value": "Sienna", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Medium Spring Green", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Turkey", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Pale Violet Red", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Nobody left this comment during testing", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "hhqvfsdpfqbh", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Indnoesia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Indonesia"]}}]}
+{"raw_value": "I left this comment during testing", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Bismuth***", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Bismuth"]}}]}
+{"raw_value": "Our team left this comment during testing", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Maldives", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "tcczjmpz", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Bealrus", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Belarus"]}}]}
+{"raw_value": "Ada", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Chmpanzee", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Chimpanzee"]}}]}
+{"raw_value": "Brasilia", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "??", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Nauru", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "ftjzgzns", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Boron", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Boron"]}}]}
+{"raw_value": "Sashell", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Seashell"]}}]}
+{"raw_value": "vnvdzjhlgr", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Belgrade", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Paltypus", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Platypus"]}}]}
+{"raw_value": "Lawrencium", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lawrencium"]}}]}
+{"raw_value": "Saint Kitts and Nevis", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "true", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Nobody entered free text instead of a valid option", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "zbqcsgkdff", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "csmcftspczpl", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lemon Chifon", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lemon Chiffon"]}}]}
+{"raw_value": "Norway", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Iodine", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Peasant", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Pheasant"]}}]}
+{"raw_value": "qcpssxvcqrbj", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Rutherfrdium", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Rutherfordium"]}}]}
+{"raw_value": "Madagascar##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Madagascar"]}}]}
+{"raw_value": "kxxtsfwcn", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Puffin", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Janet!@#", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Janet"]}}]}
+{"raw_value": "Mosquito", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mosquito"]}}]}
+{"raw_value": "Hasium", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Hassium"]}}]}
+{"raw_value": "Indoneia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Indonesia"]}}]}
+{"raw_value": "Oxygen", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Slovakiaa", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Slovakia"]}}]}
+{"raw_value": "nksckwg", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "yLnx", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lynx"]}}]}
+{"raw_value": "hWite", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["White"]}}]}
+{"raw_value": "wcrvvhvpcjf", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Guaemala", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Guatemala"]}}]}
+{"raw_value": "Slvoakia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Slovakia"]}}]}
+{"raw_value": "Antiue White", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Antique White"]}}]}
+{"raw_value": "Pelican", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Java", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "South Sdan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["South Sudan"]}}]}
+{"raw_value": "Hassium", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Hassium"]}}]}
+{"raw_value": "White", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["White"]}}]}
+{"raw_value": "Swift", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Swift"]}}]}
+{"raw_value": "Niger***", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Niger"]}}]}
+{"raw_value": "PureSript", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["PureScript"]}}]}
+{"raw_value": "Ladybug!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Ladybug"]}}]}
+{"raw_value": "The customer left this comment during testing", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "oDg", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dog"]}}]}
+{"raw_value": "Oyster", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "gnlhps", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Midnigght Blue", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Midnight Blue"]}}]}
+{"raw_value": "Ghana", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Indonesia##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Indonesia"]}}]}
+{"raw_value": "nvpqthvthtqbdn", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "?", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Yerevan", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Our team pasted the wrong clipboard content here", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Platyypus", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Platypus"]}}]}
+{"raw_value": "I entered free text instead of a valid option", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Orangutan", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Indigo", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "tcgrcw", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Cassowary", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Cassowary"]}}]}
+{"raw_value": "#N/A", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Jellyfish", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Jellyfish"]}}]}
+{"raw_value": "Brown??", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Brown"]}}]}
+{"raw_value": "Platypu", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Platypus"]}}]}
+{"raw_value": "Silver", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Silver"]}}]}
+{"raw_value": "Colombo", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Yellow", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Yellow"]}}]}
+{"raw_value": "Doominica", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dominica"]}}]}
+{"raw_value": "Vanadium", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Vanadium"]}}]}
+{"raw_value": "Ladybbug", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Ladybug"]}}]}
+{"raw_value": "Ivory Coast", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Green", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Sweden", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "I accidentally typed this into the wrong field", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Omna", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Oman"]}}]}
+{"raw_value": "Q#", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Suriname", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Haxe", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Haxe"]}}]}
+{"raw_value": "Crimson??", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Crimson"]}}]}
+{"raw_value": "ntxtcqtk", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "ftwzxqzvqc", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Medium Purple", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Ostrich", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dragonfly", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Serbia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Serbia"]}}]}
+{"raw_value": "nvtzrlkl", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Austria##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Austria"]}}]}
+{"raw_value": "Neodymium", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Neodymium"]}}]}
+{"raw_value": "hrhhvghpfhbt", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Guatemala", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Guatemala"]}}]}
+{"raw_value": "Manchester", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Tuvalu", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Koala", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Koala"]}}]}
+{"raw_value": "Koal", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Koala"]}}]}
+{"raw_value": "fpbhrtnnfhp", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "The previous vendor accidentally typed this into the wrong field", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Barium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Berkelium##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Berkelium"]}}]}
+{"raw_value": "Forest Green", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Cat", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Cat"]}}]}
+{"raw_value": "Jlelyfish", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Jellyfish"]}}]}
+{"raw_value": "Singapore", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "vjjncx", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "ltpnsphhn", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Mandrrill", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mandrill"]}}]}
+{"raw_value": "Mosquitoo", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mosquito"]}}]}
+{"raw_value": "Shark", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Shark"]}}]}
+{"raw_value": "sjhnskspnjl", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Sea Green***", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Sea Green"]}}]}
+{"raw_value": "Melbourne", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Olvie Drab", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Olive Drab"]}}]}
+{"raw_value": "Medium Orcchid", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Medium Orchid"]}}]}
+{"raw_value": "Boar", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Boar"]}}]}
+{"raw_value": "Turkmenistan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Turkmenistan"]}}]}
+{"raw_value": "Black", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "rmkdqtb", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "bvbbnqmb", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Light Coral", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "not applicable", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Vietnam", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "jtfsdtj", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Tcl", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Tcl"]}}]}
+{"raw_value": "Rhenium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Yellow rGeen", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Yellow Green"]}}]}
+{"raw_value": "The manager entered free text instead of a valid option", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "nwtmxnddxdwfwh", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "San Diego", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "CoffeeScript", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["CoffeeScript"]}}]}
+{"raw_value": "nrpgxcqc", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Aarvark", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Aardvark"]}}]}
+{"raw_value": "dnmrqbhldrfjxl", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Rebecca Purple", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Slate Gray", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "The manager wrote a long note about their weekend plans", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "qjsmwmnk", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "A stranger accidentally typed this into the wrong field", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "The previous vendor wrote a long note about their weekend plans", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Caat", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Cat"]}}]}
+{"raw_value": "Dark Slate Gray", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "wdfrdqgbhvfhjs", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Russa", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Russia"]}}]}
+{"raw_value": "Porto Alegre", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Toad", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Julia", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Hafnium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Morococ", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Morocco"]}}]}
+{"raw_value": "Rutherfordium", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Rutherfordium"]}}]}
+{"raw_value": "Armadillo", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Sillver", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Silver"]}}]}
+{"raw_value": "Orange***", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Orange"]}}]}
+{"raw_value": "Pune", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Coral", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Marshall Islands", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "The customer pasted the wrong clipboard content here", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Penguin***", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Penguin"]}}]}
+{"raw_value": "I described their favorite movie in this cell", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Manganee", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Manganese"]}}]}
+{"raw_value": "Janet", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Janet"]}}]}
+{"raw_value": "Zebra", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Liverpool", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "stlfwrphbpsprj", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "MATLBA", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["MATLAB"]}}]}
+{"raw_value": "cssqjjqxfdhv", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Thailand!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Thailand"]}}]}
+{"raw_value": "Navy", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Navy"]}}]}
+{"raw_value": "Magnanese", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Manganese"]}}]}
+{"raw_value": "Pig***", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Pig"]}}]}
+{"raw_value": "Hondruas", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Honduras"]}}]}
+{"raw_value": "Seoul", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Hydrogen", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Einsteinium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "The manager left this comment during testing", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "xggncdmgp", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "SSpain", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Spain"]}}]}
+{"raw_value": "Crimsno", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Crimson"]}}]}
+{"raw_value": "bmjjfws", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "qwjmngsjmrqrqd", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Llama", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Aarddvark", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Aardvark"]}}]}
+{"raw_value": "Gambia", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Nobody accidentally typed this into the wrong field", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "The customer accidentally typed this into the wrong field", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Nay", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Navy"]}}]}
+{"raw_value": "My neighbor described their favorite movie in this cell", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Libya", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Magpe", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Magpie"]}}]}
+{"raw_value": "CCow", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Cow"]}}]}
+{"raw_value": "fggtrlpszkvxsc", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Auustria", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Austria"]}}]}
+{"raw_value": "vxkctlrmngcnx", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Ruby", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Slovakia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Slovakia"]}}]}
+{"raw_value": "12345", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Midnght Blue", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Midnight Blue"]}}]}
+{"raw_value": "Nigre", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Niger"]}}]}
+{"raw_value": "dkgwpbthpftw", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Tianjin", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "dxszjdrlssgndh", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "vnnhlntwsf", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Adelaide", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Switzerland", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Bratislava", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Sri Lanka", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "jbrgllsznfkk", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Polonium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Navy!@#", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Navy"]}}]}
+{"raw_value": "Rhinoceros***", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Rhinoceros"]}}]}
+{"raw_value": "zbgfrrqtcv", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Octopus", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Cougar", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "xgjsgln", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "hzkgwzr", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Silicon", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "mhxmtsmggg", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Honduras***", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Honduras"]}}]}
+{"raw_value": "jdgvmcj", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Yak", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "pzfttxjgkvggkd", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Bhutan!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Bhutan"]}}]}
+{"raw_value": "Denmark", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "mvjzpvzl", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Godenrod", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Goldenrod"]}}]}
+{"raw_value": "Go##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Go"]}}]}
+{"raw_value": "Craane", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Crane"]}}]}
+{"raw_value": "Caterpillar", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Grbil", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Gerbil"]}}]}
+{"raw_value": "Medium Turquoise", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Poland!@#", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Poland"]}}]}
+{"raw_value": "The intern pasted the wrong clipboard content here", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Krypton", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "BBotswana", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Botswana"]}}]}
+{"raw_value": "The intern described their favorite movie in this cell", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "uPreScript", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["PureScript"]}}]}
+{"raw_value": "Guatemala***", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Guatemala"]}}]}
+{"raw_value": "ncwbcmqj", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Canada", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "eTchnetium", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Technetium"]}}]}
+{"raw_value": "Seashell", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Seashell"]}}]}
+{"raw_value": "White Smoke", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "North Korea", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Ox", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Penguni", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Penguin"]}}]}
+{"raw_value": "qcrpgs", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "0", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "nmsnslxlzc", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Angola", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "jtqskfqgngqn", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lavende", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lavender"]}}]}
+{"raw_value": "Weasel", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "kqwgqzffqjjfx", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Eel", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Neonn", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Neon"]}}]}
+{"raw_value": "United States", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Zambia!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Zambia"]}}]}
+{"raw_value": "Light Sky Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Eleephant", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Elephant"]}}]}
+{"raw_value": "Praseodymium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "zkhxtdpbzqw", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Uganad", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Uganda"]}}]}
+{"raw_value": "qlkbjxmgxb", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Scheme", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Medellin", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Tcl!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Tcl"]}}]}
+{"raw_value": "lrbrrqljt", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Misty Rose", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Botswana***", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Botswana"]}}]}
+{"raw_value": "Medium Orchdi", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Medium Orchid"]}}]}
+{"raw_value": "Slovaia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Slovakia"]}}]}
+{"raw_value": "Lua", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Mongolia", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "aCt", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Cat"]}}]}
+{"raw_value": "Aardvark", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Aardvark"]}}]}
+{"raw_value": "pfnvwwqkqts", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Curium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Bolivia", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Gibbon", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Royal Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Palle Green", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Pale Green"]}}]}
+{"raw_value": "Protactinum", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Protactinium"]}}]}
+{"raw_value": "czfpcwqkhd", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Saddle Brown", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Nobody wrote a long note about their weekend plans", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Hack", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Micronesia", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Antigua and Barbuda", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Omann", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Oman"]}}]}
+{"raw_value": "Turtle", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Trinidad nad Tobago", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Trinidad and Tobago"]}}]}
+{"raw_value": "Pale rGeen", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Pale Green"]}}]}
+{"raw_value": "Sloth##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Sloth"]}}]}
+{"raw_value": "Arsenic", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Yellow Green", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Yellow Green"]}}]}
+{"raw_value": "My neighbor accidentally typed this into the wrong field", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "btkkkksjgb", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "I pasted the wrong clipboard content here", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Old Lace##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Old Lace"]}}]}
+{"raw_value": "Bat", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "SShark", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Shark"]}}]}
+{"raw_value": "qcggzkzlrxm", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Astatine", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Astatine"]}}]}
+{"raw_value": "Jakarta", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "CC#", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["C#"]}}]}
+{"raw_value": "Plum", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Oldd Lace", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Old Lace"]}}]}
+{"raw_value": "Whie", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["White"]}}]}
+{"raw_value": "Tiger", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Kampala", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Orange", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Orange"]}}]}
+{"raw_value": "Ottter", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Otter"]}}]}
+{"raw_value": "Asttine", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Astatine"]}}]}
+{"raw_value": "Old Lae", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Old Lace"]}}]}
+{"raw_value": "Someone pasted the wrong clipboard content here", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Qauil", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Quail"]}}]}
+{"raw_value": "The intern accidentally typed this into the wrong field", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "gstjwhqlqcxdt", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Carbon", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Carbon"]}}]}
+{"raw_value": "Lithium##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lithium"]}}]}
+{"raw_value": "Rhinocers", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Rhinoceros"]}}]}
+{"raw_value": "Medium Orhid", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Medium Orchid"]}}]}
+{"raw_value": "Olive rab", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Olive Drab"]}}]}
+{"raw_value": "Vanadiium", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Vanadium"]}}]}
+{"raw_value": "Idris", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Visual Basic", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Bekelium", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Berkelium"]}}]}
+{"raw_value": "Chhimpanzee", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Chimpanzee"]}}]}
+{"raw_value": "Fox", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Gainsboro", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Cobalt***", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Cobalt"]}}]}
+{"raw_value": "Lynx??", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lynx"]}}]}
+{"raw_value": "Afghanistan", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "The previous vendor pasted the wrong clipboard content here", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "NaN", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Assembly", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "crthvtg", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "CoffeeSccript", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["CoffeeScript"]}}]}
+{"raw_value": "A stranger wrote a long note about their weekend plans", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Dortmund", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "dhjzthwjpfg", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Thhailand", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Thailand"]}}]}
+{"raw_value": "Dingo", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Penuin", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Penguin"]}}]}
+{"raw_value": "Equatorial Guinea", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Mandrill***", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mandrill"]}}]}
+{"raw_value": "Vaandium", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Vanadium"]}}]}
+{"raw_value": "Leopard", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Lisbon", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Kazakhtan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Kazakhstan"]}}]}
+{"raw_value": "Cockatoo", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Zambia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Zambia"]}}]}
+{"raw_value": "Mexico", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Moldova", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Porcupine", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Gorilla", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Moquito", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mosquito"]}}]}
+{"raw_value": "Thulium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "xxx", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Platypus", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Platypus"]}}]}
+{"raw_value": "jlmrxm", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Narwhal", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Old Lace", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Old Lace"]}}]}
+{"raw_value": "Tc", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Technetium"]}}]}
+{"raw_value": "Nim", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Scorpion", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "thtwfcpbzghgd", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Phosphorsu", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Phosphorus"]}}]}
+{"raw_value": "Coyote", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Croatia", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "South Sudan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["South Sudan"]}}]}
+{"raw_value": "Blanched Almond", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "A stranger pasted the wrong clipboard content here", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Niobium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Trinidad and Tobago", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Trinidad and Tobago"]}}]}
+{"raw_value": "Thailand", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Thailand"]}}]}
+{"raw_value": "xrfsjx", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "aSlmon", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Salmon"]}}]}
+{"raw_value": "Green Yellow", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "wsjxpxgjgjm", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "India!@#", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["India"]}}]}
+{"raw_value": "Rust", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Tin", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Magenta", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Magenta"]}}]}
+{"raw_value": "Okapi", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dmoinica", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dominica"]}}]}
+{"raw_value": "Jacksonville", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Koalla", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Koala"]}}]}
+{"raw_value": "Berlin", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Our team accidentally typed this into the wrong field", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "cTl", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Tcl"]}}]}
+{"raw_value": "Russia??", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Russia"]}}]}
+{"raw_value": "F#", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Raven", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "A stranger entered free text instead of a valid option", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Jinan", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Sapin", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Spain"]}}]}
+{"raw_value": "hbjpsd", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Cape Verde", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Stoork", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Stork"]}}]}
+{"raw_value": "Salmon??", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Salmon"]}}]}
+{"raw_value": "Bhuttan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Bhutan"]}}]}
+{"raw_value": "Mendelevium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Cat??", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Cat"]}}]}
+{"raw_value": "Carboon", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Carbon"]}}]}
+{"raw_value": "Caron", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Carbon"]}}]}
+{"raw_value": "mjkglzfjp", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Goat", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Giraffe", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dark Slat Blue", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dark Slate Blue"]}}]}
+{"raw_value": "Argentina", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Carbon!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Carbon"]}}]}
+{"raw_value": "Saudi Arabia", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Sodium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Mindight Blue", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Midnight Blue"]}}]}
+{"raw_value": "nwpdgnkwx", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "frrlxqxbhvhmzv", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Yellw", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Yellow"]}}]}
+{"raw_value": "rgmmqtcl", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lemon Chiffon", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lemon Chiffon"]}}]}
+{"raw_value": "Qatar", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "C#!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["C#"]}}]}
+{"raw_value": "Silver!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Silver"]}}]}
+{"raw_value": "Spain", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Spain"]}}]}
+{"raw_value": "Ukraine", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Light Slate Gray", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Togo", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Seattle", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Namibia", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "hlvczqhmlb", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Bromine", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Thorium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Belize", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Holmium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "HHaxe", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Haxe"]}}]}
+{"raw_value": "fdhdhnx", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Pakistan", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "lcqmqvrts", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Floral White", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Light Cyan", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "NA", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Roosteer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Rooster"]}}]}
+{"raw_value": "Lynx", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lynx"]}}]}
+{"raw_value": "Chartreuse", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Kyrgyzstan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Kyrgyzstan"]}}]}
+{"raw_value": "RRPG", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["RPG"]}}]}
+{"raw_value": "Bosnnia and Herzegovina", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Bosnia and Herzegovina"]}}]}
+{"raw_value": "Dark Turquoise", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dim Gray", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "kbztsrwwxj", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Dark Slate Blue", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dark Slate Blue"]}}]}
+{"raw_value": "zvwkcpxtjr", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Copper", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Rooster", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Rooster"]}}]}
+{"raw_value": "C Sharp", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["C#"]}}]}
+{"raw_value": "Mandrill", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mandrill"]}}]}
+{"raw_value": "Yttrium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "gmbdlwmjzzd", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Maroon!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Maroon"]}}]}
+{"raw_value": "Clojure", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Poland", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Poland"]}}]}
+{"raw_value": "Crmson", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Crimson"]}}]}
+{"raw_value": "Finch", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "The previous vendor left this comment during testing", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Radon", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Nantes", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Crnae", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Crane"]}}]}
+{"raw_value": "The customer wrote a long note about their weekend plans", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Tanzania", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Our team described their favorite movie in this cell", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Elixir", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Oragne", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Orange"]}}]}
+{"raw_value": "Delhi", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Chapel", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "...", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "rtnmvfkwqqqtp", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Portugal", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Olive Drab", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Olive Drab"]}}]}
+{"raw_value": "Azerbaijan", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Medium Orchid", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Medium Orchid"]}}]}
+{"raw_value": "Gerbil", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Gerbil"]}}]}
+{"raw_value": "Buenos Aires", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Pig", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Pig"]}}]}
+{"raw_value": "Ibex", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "The intern wrote a long note about their weekend plans", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "fczszhdpwkp", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Aqua", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Olive Drab##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Olive Drab"]}}]}
+{"raw_value": "Uganda", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Uganda"]}}]}
+{"raw_value": "Phesaant", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Pheasant"]}}]}
+{"raw_value": "Yellow!@#", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Yellow"]}}]}
+{"raw_value": "Elephant", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Elephant"]}}]}
+{"raw_value": "Frnace", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["France"]}}]}
+{"raw_value": "Protactinium", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Protactinium"]}}]}
+{"raw_value": "I wrote a long note about their weekend plans", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "htbndcgv", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lavneder", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lavender"]}}]}
+{"raw_value": "plvbzlc", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "APL", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["APL"]}}]}
+{"raw_value": "Anntique White", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Antique White"]}}]}
+{"raw_value": "Bash", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "jhspkhtjngmdbj", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "rqtgnhfmphrl", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Wheat", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "ztjhbkjdzg", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Otter", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Otter"]}}]}
+{"raw_value": "Livermorium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Tennessine##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Tennessine"]}}]}
+{"raw_value": "no data", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Madagasca", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Madagascar"]}}]}
+{"raw_value": "oPland", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Poland"]}}]}
+{"raw_value": "Central African Republic", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "oG", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Go"]}}]}
+{"raw_value": "Sandy Brown", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Someone entered free text instead of a valid option", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lemming", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Koaal", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Koala"]}}]}
+{"raw_value": "The customer described their favorite movie in this cell", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Jellyyfish", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Jellyfish"]}}]}
+{"raw_value": "Butterfly", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Boron##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Boron"]}}]}
+{"raw_value": "Neodymium!@#", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Neodymium"]}}]}
+{"raw_value": "Sao Tome and Principe", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "zpxrrbmw", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Cadmium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "zqlwwjdxgfj", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Otter??", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Otter"]}}]}
+{"raw_value": "Dog##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dog"]}}]}
+{"raw_value": "iPg", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Pig"]}}]}
+{"raw_value": "ActionScript", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "missing", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Light Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Zimbabwe", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Armenia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Armenia"]}}]}
+{"raw_value": "Rooster??", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Rooster"]}}]}
+{"raw_value": "rggthk", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "South Korea", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Pretoria", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Jannet", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Janet"]}}]}
+{"raw_value": "Quil", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Quail"]}}]}
+{"raw_value": "Trrinidad and Tobago", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Trinidad and Tobago"]}}]}
+{"raw_value": "Spring Green", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Spring Green"]}}]}
+{"raw_value": "Deep Pink", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Whale", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Midnight Blue", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Midnight Blue"]}}]}
+{"raw_value": "Californium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Helsinki", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "pvvqtzhpgx", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "The previous vendor entered free text instead of a valid option", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "PureScript", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["PureScript"]}}]}
+{"raw_value": "Venezuela", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Cane", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Crane"]}}]}
+{"raw_value": "Magpie", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Magpie"]}}]}
+{"raw_value": "Manatee", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Moose", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Goose", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Haskell", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dhaka", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Moocco", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Morocco"]}}]}
+{"raw_value": "Botswana", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Botswana"]}}]}
+{"raw_value": "Elpehant", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Elephant"]}}]}
+{"raw_value": "Prrotactinium", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Protactinium"]}}]}
+{"raw_value": "Tennessie", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Tennessine"]}}]}
+{"raw_value": "Kyrgyzstan##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Kyrgyzstan"]}}]}
+{"raw_value": "Turkmenistan!@#", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Turkmenistan"]}}]}
+{"raw_value": "Samarium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Cihle", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Chile"]}}]}
+{"raw_value": "PowerShell", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Mauritania", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mauritania"]}}]}
+{"raw_value": "SSeashell", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Seashell"]}}]}
+{"raw_value": "lkjpbgsfqbsj", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Cassowary!@#", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Cassowary"]}}]}
+{"raw_value": "Xenon", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "C#", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["C#"]}}]}
+{"raw_value": "zvhhfbpkdrdf", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "fbwzcgwp", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Egypt", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Omn", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Oman"]}}]}
+{"raw_value": "Malawi", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "CoffeeScirpt", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["CoffeeScript"]}}]}
+{"raw_value": "Idnia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["India"]}}]}
+{"raw_value": "xrznwqtwbnnnp", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Net", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Newt"]}}]}
+{"raw_value": "Sppring Green", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Spring Green"]}}]}
+{"raw_value": "Lawrenncium", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lawrencium"]}}]}
+{"raw_value": "Hungary", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "wwjjzvslfdk", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Peach Puff", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Salmon", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Salmon"]}}]}
+{"raw_value": "Nickel", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "sjnghvtbnrhgt", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Benin", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Magpei", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Magpie"]}}]}
+{"raw_value": "Newt", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Newt"]}}]}
+{"raw_value": "Gazelle", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "wwhqzdjddz", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Nigeria", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Hyena", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "South uSdan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["South Sudan"]}}]}
+{"raw_value": "Milan", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Saint Lucia", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "rhjkzhhbtfndfq", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Haxe!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Haxe"]}}]}
+{"raw_value": "Orchid", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "rgwxnbzcpxfdzd", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Mercury", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "ksmfwzsgdnlcq", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "None", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Technetium", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Technetium"]}}]}
+{"raw_value": "Thaialnd", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Thailand"]}}]}
+{"raw_value": "Mauritius", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Gaborone", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Mauritania!@#", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mauritania"]}}]}
+{"raw_value": "Magpiee", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Magpie"]}}]}
+{"raw_value": "Maron", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Maroon"]}}]}
+{"raw_value": "PHP", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Sprign Green", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Spring Green"]}}]}
+{"raw_value": "Burlywood", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dark Olive Green", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "tjgvcttffkcqhd", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "false", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "dsknxwlwvmbgdn", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Newwt", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Newt"]}}]}
+{"raw_value": "blrzlthnvtvmm", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Toucan", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Bosnia and Herzegovina", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Bosnia and Herzegovina"]}}]}
+{"raw_value": "Gerbil!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Gerbil"]}}]}
+{"raw_value": "hvxqxqlplrpp", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Hippopotamus", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "dqnzthq", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Argon", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Mauuritania", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mauritania"]}}]}
+{"raw_value": "Ladybug", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Ladybug"]}}]}
+{"raw_value": "Someone accidentally typed this into the wrong field", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "bjjlmpbnrq", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "South Sudan##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["South Sudan"]}}]}
+{"raw_value": "Belaruus", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Belarus"]}}]}
+{"raw_value": "Dark Orange", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Light Steel Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "lpdbftkxtkxr", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Boar##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Boar"]}}]}
+{"raw_value": "mjgmcqmhl", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Chiile", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Chile"]}}]}
+{"raw_value": "qhsbgjhmmdhkj", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Chimapnzee", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Chimpanzee"]}}]}
+{"raw_value": "Turkemnistan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Turkmenistan"]}}]}
+{"raw_value": "Csasowary", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Cassowary"]}}]}
+{"raw_value": "JavaScript!@#", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["JavaScript"]}}]}
+{"raw_value": "Haiti", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dark Cyan", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "aLdybug", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Ladybug"]}}]}
+{"raw_value": "Samoa", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "lgnwpqgqfmzx", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "zxqcfcnlwp", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Gecko", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Fantom", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Lemon Chifffon", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lemon Chiffon"]}}]}
+{"raw_value": "Raccoon", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Neodymiium", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Neodymium"]}}]}
+{"raw_value": "The manager described their favorite movie in this cell", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Bi", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Bismuth"]}}]}
+{"raw_value": "Dark Gray", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "TypeScript", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Yelllow Green", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Yellow Green"]}}]}
+{"raw_value": "Dark Khaki", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Phosphorus", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Phosphorus"]}}]}
+{"raw_value": "Sea Green", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Sea Green"]}}]}
+{"raw_value": "Dominica", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dominica"]}}]}
+{"raw_value": "Sprng Green", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Spring Green"]}}]}
+{"raw_value": "Laveender", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lavender"]}}]}
+{"raw_value": "Goo", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Go"]}}]}
+{"raw_value": "Chimpanzee", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Chimpanzee"]}}]}
+{"raw_value": "Someone wrote a long note about their weekend plans", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Pangolin", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "btfnwtzqmtmcv", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Kazakhstan##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Kazakhstan"]}}]}
+{"raw_value": "Sao Paulo", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "zzpktrr", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Ocelot", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "hcxqgwxjrpmjn", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Trinidad and Tobago!@#", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Trinidad and Tobago"]}}]}
+{"raw_value": "Sotrk", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Stork"]}}]}
+{"raw_value": "Muscat", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Zambi", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Zambia"]}}]}
+{"raw_value": "Philippines", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Jllyfish", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Jellyfish"]}}]}
+{"raw_value": "Syria", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Hassium##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Hassium"]}}]}
+{"raw_value": "Indonesia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Indonesia"]}}]}
+{"raw_value": "xgnhjqhhz", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Mosquito##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mosquito"]}}]}
+{"raw_value": "Timisoara", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "The intern entered free text instead of a valid option", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Estonia", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Aardvark??", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Aardvark"]}}]}
+{"raw_value": "Philadelphia", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Hamilton", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Astatine!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Astatine"]}}]}
+{"raw_value": "Lithium", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lithium"]}}]}
+{"raw_value": "sxnpxqxc", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Heron", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "New York City", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Ghent", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Tccl", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Tcl"]}}]}
+{"raw_value": "xfxffkp", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Polaand", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Poland"]}}]}
+{"raw_value": "Democratic Republic of the Congo", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Non", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Neon"]}}]}
+{"raw_value": "J", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Wolverine", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "rhbmlwpfnsxdxs", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Harare", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "wdvhqvjgkbjp", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Calgary", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Shrk", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Shark"]}}]}
+{"raw_value": "Quaill", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Quail"]}}]}
+{"raw_value": "Prtoactinium", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Protactinium"]}}]}
+{"raw_value": "Dark Red", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Coblat", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Cobalt"]}}]}
+{"raw_value": "Someone left this comment during testing", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Madagasscar", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Madagascar"]}}]}
+{"raw_value": "rqbmfrmlvnzpxh", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Ecuador", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Raku", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Ghost White", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "zgxvvcwpwkvhph", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Titanium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "mpgmnpnsmrxqr", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "nnkjjmh", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "hbgckhqnb", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "dkgtjcjmrdnq", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "nmbwlhmprbsn", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "tqcllcxbtz", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Larencium", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lawrencium"]}}]}
+{"raw_value": "Neptunium", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Honuras", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Honduras"]}}]}
+{"raw_value": "hlxfgvxqnx", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Hot Pink", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Stuttgart", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "xnrkjljh", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "mnsxvvxl", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Penguin", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Penguin"]}}]}
+{"raw_value": "Serbai", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Serbia"]}}]}
+{"raw_value": "Iraq", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "dbcrvtqdrlwfz", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Chile", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Chile"]}}]}
+{"raw_value": "Honeydew", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Cssowary", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Cassowary"]}}]}

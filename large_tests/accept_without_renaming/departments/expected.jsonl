@@ -1,0 +1,40 @@
+{"raw_value": "Human Resources", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Human Resources"]}}]}
+{"raw_value": "Information Technology", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Information Technology"]}}]}
+{"raw_value": "Research and Development", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Research and Development"]}}]}
+{"raw_value": "Quality Assurance", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Quality Assurance"]}}]}
+{"raw_value": "Public Relations", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Public Relations"]}}]}
+{"raw_value": "Operations", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Operations"]}}]}
+{"raw_value": "Marketing", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Marketing"]}}]}
+{"raw_value": "Sales", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Sales"]}}]}
+{"raw_value": "Finance", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Finance"]}}]}
+{"raw_value": "Accounting", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Accounting"]}}]}
+{"raw_value": "Legal", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Legal"]}}]}
+{"raw_value": "Procurement", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Procurement"]}}]}
+{"raw_value": "Customer Support", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Customer Support"]}}]}
+{"raw_value": "Customer Success", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Customer Success"]}}]}
+{"raw_value": "Engineering", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Engineering"]}}]}
+{"raw_value": "Product Management", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Product Management"]}}]}
+{"raw_value": "Design", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Design"]}}]}
+{"raw_value": "Data Analytics", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Data Analytics"]}}]}
+{"raw_value": "Business Development", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Business Development"]}}]}
+{"raw_value": "Supply Chain", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Supply Chain"]}}]}
+{"raw_value": "Logistics", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Logistics"]}}]}
+{"raw_value": "Manufacturing", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Manufacturing"]}}]}
+{"raw_value": "Facilities", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Facilities"]}}]}
+{"raw_value": "Security", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Security"]}}]}
+{"raw_value": "Compliance", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Compliance"]}}]}
+{"raw_value": "Internal Audit", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Internal Audit"]}}]}
+{"raw_value": "Treasury", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Treasury"]}}]}
+{"raw_value": "Payroll", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Payroll"]}}]}
+{"raw_value": "Recruiting", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Recruiting"]}}]}
+{"raw_value": "Learning and Development", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Learning and Development"]}}]}
+{"raw_value": "Corporate Communications", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Corporate Communications"]}}]}
+{"raw_value": "Investor Relations", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Investor Relations"]}}]}
+{"raw_value": "Strategy", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Strategy"]}}]}
+{"raw_value": "Risk Management", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Risk Management"]}}]}
+{"raw_value": "Health and Safety", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Health and Safety"]}}]}
+{"raw_value": "Administration", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Administration"]}}]}
+{"raw_value": "Field Services", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Field Services"]}}]}
+{"raw_value": "Partnerships", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Partnerships"]}}]}
+{"raw_value": "Merchandising", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Merchandising"]}}]}
+{"raw_value": "Category Management", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Category Management"]}}]}

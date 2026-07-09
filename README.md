@@ -59,6 +59,26 @@ results (one row per prediction: scenario, domain, raw_value, gold_state,
 pred_state, pred_value, strict, lenient, matched_tier). See queries.md for
 ready-made SQL and seaborn heatmap snippets.
 
+## Large-scale test data (large_tests/)
+A generated dataset with 1000+ inputs per scenario (6188 total) across 10 entity
+domains (countries, cities, animals, programming languages, colors, chemical
+elements, fruits/vegetables, departments, currencies, job titles), plus a large
+mixed scenario combining all four outcomes against one scope:
+
+    accept_without_renaming  1336  (exact scope matches)
+    accept_with_renaming     1336  (typos, casing, noise chars, aliases/abbreviations)
+    suggestion               1117  (held-out same-category entities)
+    decline                  1237  (gibberish, placeholders, free text, wrong category)
+    mixed                    1162  (all four outcomes, combined scope)
+
+Gold labels are expected.jsonl predicate specs. The dataset is fully
+reproducible from a fixed seed: python generate_data.py (the generator lives
+on the new_testing_data_generator branch).
+
+NOTE: running evaluate.py on large_tests/ makes one API call per input value
+(6188 calls with the default 2s delay is ~3.5h) -- evaluate a subfolder or a
+single scenario when iterating.
+
 Methodology note: validate the validator -- hand-label a stratified sample
 (oversampling suggest cases), compare against the automated verdicts, and
 report the agreement rate. If the judge tier is used, report judge-human

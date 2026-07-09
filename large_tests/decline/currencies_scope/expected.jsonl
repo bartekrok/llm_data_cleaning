@@ -1,0 +1,170 @@
+{"raw_value": "Junior Software Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Junior Data Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Junior QA Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Junior DevOps Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Junior Machine Learning Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Junior Security Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Junior Cloud Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Junior Frontend Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Junior Backend Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Junior Mobile Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Junior Platform Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Junior Site Reliability Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Mid-Level Software Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Mid-Level Data Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Mid-Level QA Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Mid-Level DevOps Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Mid-Level Machine Learning Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Mid-Level Security Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Mid-Level Cloud Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Mid-Level Frontend Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Mid-Level Backend Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Mid-Level Mobile Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Mid-Level Platform Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Mid-Level Site Reliability Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Senior Software Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Senior Data Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Senior QA Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Senior DevOps Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Senior Machine Learning Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Senior Security Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Senior Cloud Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Senior Frontend Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Senior Backend Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Senior Mobile Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Senior Platform Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Senior Site Reliability Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Staff Software Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Staff Data Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Staff QA Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Staff DevOps Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Staff Machine Learning Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Staff Security Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Staff Cloud Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Staff Frontend Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Staff Backend Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Staff Mobile Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Staff Platform Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Staff Site Reliability Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Principal Software Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Principal Data Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Principal QA Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Principal DevOps Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Principal Machine Learning Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Principal Security Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Principal Cloud Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Principal Frontend Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Principal Backend Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Principal Mobile Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Principal Platform Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Principal Site Reliability Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lead Software Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lead Data Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lead QA Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lead DevOps Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lead Machine Learning Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lead Security Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lead Cloud Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lead Frontend Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lead Backend Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lead Mobile Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lead Platform Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lead Site Reliability Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Chief Executive Officer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Chief Technology Officer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Chief Financial Officer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Chief Operating Officer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Chief Information Officer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Chief Marketing Officer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Product Manager", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Project Manager", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Program Manager", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Business Analyst", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Data Analyst", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Data Scientist", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "UX Designer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "UI Designer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Graphic Designer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Scrum Master", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Solutions Architect", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Enterprise Architect", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Software Architect", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Engineering Manager", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Technical Writer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Database Administrator", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "System Administrator", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Network Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Support Engineer", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Release Manager", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Product Owner", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "VP of Engineering", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Director of Engineering", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Head of Product", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "lprtzshkgccgmx", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "kszjktnqj", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "kpphvzrdfggjj", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "jskqjmrqx", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "mljzgwlbmm", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "qjqdwqjtfnxs", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "thzxmxjvsljb", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "trwfpdfvn", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "dblgsphj", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "jzjwqrfkjfpnhb", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "zfmkrk", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "dhxwjkvd", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "gtjgjbbvptq", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "vjrhrlm", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "hdmdqfl", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "bsqgbzf", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "nqlkltfg", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "gmktsgzmgcz", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "gjjjbpxfgq", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "lfxhqtrmxgfnd", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "mcvmwsgxt", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "rgnrqbzk", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "lbvgggqx", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "fqbzjbrwpkvzcz", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "fbphqpbfrtj", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "jtlfrtwt", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "fvzhjxgkfgqcl", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "nmffbwgnppx", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "gmcxcjqtwv", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "wfbpzpndw", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "hqzjdgdr", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "wmfvrgb", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "zmpfltpldb", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "wtgfcppgmsg", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "vhbqrswl", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "xtccnd", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "pzrcqkjzzd", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "rvslczc", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "zqcprt", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "dxzgnnbgs", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "wrvnfhsrphw", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "kbrcbbgpvznn", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "bgsphkkmjwkq", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "tzzwbhvlfjz", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "jtrsrzln", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "jsxnkwdqmzj", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "frmlnpqdwntzc", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "fvvkxttlntkdl", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "rhmxfgsffk", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "fccxlkdwf", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "None", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "??", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "missing", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "#N/A", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "12345", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "void", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "I described their favorite movie in this cell", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "My neighbor pasted the wrong clipboard content here", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "The intern wrote a long note about their weekend plans", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Nobody left this comment during testing", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "The customer accidentally typed this into the wrong field", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "The customer entered free text instead of a valid option", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Our team described their favorite movie in this cell", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "The previous vendor pasted the wrong clipboard content here", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Someone wrote a long note about their weekend plans", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "The manager left this comment during testing", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "A stranger accidentally typed this into the wrong field", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "A stranger entered free text instead of a valid option", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}

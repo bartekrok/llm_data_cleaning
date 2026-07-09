@@ -1,0 +1,174 @@
+{"raw_value": "Apple", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Apricot", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Avocado", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Banana", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Blackberry", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Blueberry", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Cantaloupe", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Cherry", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Clementine", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Coconut", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Cranberry", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Dragonfruit", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Durian", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Elderberry", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Fig", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Gooseberry", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Grape", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Grapefruit", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Guava", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Honeydew Melon", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Jackfruit", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Kumquat", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lemon", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lime", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lychee", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Mango", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Mandarin", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Nectarine", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Papaya", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Passion Fruit", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Peach", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Pear", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Persimmon", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Pineapple", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Pomegranate", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Pomelo", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Quince", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Raspberry", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Starfruit", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Strawberry", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Tangerine", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Watermelon", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Mulberry", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Boysenberry", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Currant", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Artichoke", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Arugula", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Asparagus", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Beetroot", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Bell Pepper", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Bok Choy", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Broccoli", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Brussels Sprouts", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Cabbage", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Carrot", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Cauliflower", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Celery", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Chard", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Chickpea", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Corn", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Cucumber", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Eggplant", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Endive", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Fennel", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Garlic", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Ginger", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Green Bean", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Kale", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Kohlrabi", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Leek", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lentil", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lettuce", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Mushroom", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Okra", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Onion", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Parsnip", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Pea", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Potato", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Pumpkin", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Radicchio", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Radish", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Rhubarb", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Rutabaga", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Scallion", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Shallot", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Spinach", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Squash", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Sweet Potato", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Tomato", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Turnip", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Watercress", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Zucchini", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Yam", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Horseradish", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Jalapeno", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Habanero", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Cayenne Pepper", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Basil", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Cilantro", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Parsley", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Dill", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Oregano", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Thyme", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Rosemary", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Sage", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Mint", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "svnxjf", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "jjdnjtszn", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "hnwkhjbhlf", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "hvqvptv", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "nlqbhskldpdmv", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "swbpgxgmbtpnk", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "pvbhnr", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "hzrsqhxfq", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "wksgtlh", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "brbbnjd", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "znqgnhn", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "bknnkjwckk", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "gtbqrdmzwgwh", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "rkktcpbglzsg", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "rmrhhphgjthvfs", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "vbqzvlttn", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "mzjgvxvcgtdm", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "gnqxbmcxwjq", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "nrtpqqdvmmjw", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "qdsqlspb", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "cgxjhdw", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "gzrdwllqhq", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "ffhvmxtfvpxm", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "hxcdmwt", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "mljbxqjmvcszt", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "wlfsshgp", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "rtmmtd", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "prknchcbcn", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "wgcgjrwlw", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "vlmkmlwfhkcwkm", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "jsknljxqgskrpg", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "wndjgtx", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "znfpdcz", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "zngkqrwtwwtw", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "kdbxrgh", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "jlffdpznbkmh", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "txcmhgsddkjg", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "sltlsgfx", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "sfdhfqrjqndnnz", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "lhcdrnmhj", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "zqjpjjxb", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "fsvxcmrjkswqfj", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "vhrkfgvfxql", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "pjqftbrdtdjrq", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "dpwmstrvq", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "zvpqbfhnrh", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "mbxbsm", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "bclcfcmdlnzqlh", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "jxvvnmsgvfg", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "cslpfcqrjmj", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "N.A.", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "--", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "TBD", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "(blank)", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "not applicable", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "false", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "I wrote a long note about their weekend plans", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "My neighbor left this comment during testing", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "The intern accidentally typed this into the wrong field", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "The intern entered free text instead of a valid option", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Nobody described their favorite movie in this cell", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "The customer pasted the wrong clipboard content here", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Our team wrote a long note about their weekend plans", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "The previous vendor left this comment during testing", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Someone accidentally typed this into the wrong field", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Someone entered free text instead of a valid option", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "The manager described their favorite movie in this cell", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "A stranger pasted the wrong clipboard content here", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}

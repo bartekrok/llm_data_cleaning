@@ -1,0 +1,386 @@
+{"raw_value": "Tokyo", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Delhi", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Shanghai", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Sao Paulo", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Mexico City", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Cairo", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Mumbai", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Beijing", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Dhaka", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Osaka", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "New York City", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Karachi", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Buenos Aires", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Chongqing", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Istanbul", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Kolkata", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Manila", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lagos", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Rio de Janeiro", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Tianjin", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Kinshasa", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Guangzhou", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Los Angeles", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Moscow", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Shenzhen", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lahore", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Bangalore", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Paris", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Bogota", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Jakarta", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Chennai", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lima", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Bangkok", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Seoul", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Nagoya", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Hyderabad", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "London", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Tehran", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Chicago", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Chengdu", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Nanjing", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Wuhan", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Ho Chi Minh City", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Luanda", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Ahmedabad", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Kuala Lumpur", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Hong Kong", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Riyadh", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Baghdad", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Santiago", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Surat", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Madrid", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Suzhou", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Pune", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Harbin", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Houston", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Dallas", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Toronto", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Dar es Salaam", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Miami", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Belo Horizonte", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Philadelphia", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Atlanta", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Fukuoka", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Khartoum", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Barcelona", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Johannesburg", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Saint Petersburg", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Qingdao", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Dalian", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Washington", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Yangon", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Alexandria", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Jinan", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Guadalajara", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Boston", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Phoenix", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "San Francisco", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Seattle", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Denver", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Detroit", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Minneapolis", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "San Diego", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Austin", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "San Antonio", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "San Jose", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Columbus", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Charlotte", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Indianapolis", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Jacksonville", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Fort Worth", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "El Paso", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Nashville", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Memphis", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Portland", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Oklahoma City", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Las Vegas", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Louisville", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Baltimore", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Milwaukee", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Albuquerque", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Tucson", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Fresno", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Sacramento", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Kansas City", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Omaha", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Raleigh", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Cleveland", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Tampa", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Pittsburgh", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Cincinnati", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Orlando", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Vancouver", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Montreal", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Calgary", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Ottawa", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Edmonton", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Quebec City", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Winnipeg", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Hamilton", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Munich", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Berlin", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Hamburg", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Cologne", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Frankfurt", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Stuttgart", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Dusseldorf", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Leipzig", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Dortmund", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Essen", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Rome", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Milan", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Naples", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Turin", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Palermo", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Genoa", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Bologna", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Florence", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Venice", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Verona", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Amsterdam", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Rotterdam", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "The Hague", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Utrecht", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Eindhoven", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Brussels", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Antwerp", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Ghent", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Vienna", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Graz", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Linz", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Salzburg", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Zurich", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Geneva", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Basel", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Bern", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lausanne", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Stockholm", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Gothenburg", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Malmo", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Oslo", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Bergen", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Copenhagen", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Aarhus", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Helsinki", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Espoo", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Tampere", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Warsaw", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Krakow", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lodz", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Wroclaw", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Poznan", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Gdansk", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Szczecin", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Katowice", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lublin", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Bialystok", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Prague", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Brno", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Ostrava", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Budapest", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Debrecen", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Bucharest", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Cluj-Napoca", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Timisoara", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Sofia", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Plovdiv", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Athens", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Thessaloniki", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lisbon", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Porto", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Dublin", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Cork", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Edinburgh", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Glasgow", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Manchester", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Birmingham", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Liverpool", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Leeds", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Sheffield", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Bristol", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Newcastle", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Nottingham", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Cardiff", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Belfast", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lyon", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Marseille", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Toulouse", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Nice", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Nantes", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Strasbourg", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Montpellier", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Bordeaux", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lille", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Rennes", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Kyiv", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Kharkiv", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Odesa", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Dnipro", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lviv", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Minsk", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Riga", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Vilnius", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Tallinn", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Zagreb", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Belgrade", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Sarajevo", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Skopje", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Tirana", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Ljubljana", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Bratislava", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Chisinau", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Yerevan", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Tbilisi", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Baku", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Almaty", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Astana", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Tashkent", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Bishkek", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Dushanbe", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Ashgabat", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Kabul", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Islamabad", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Colombo", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Kathmandu", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Thimphu", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Dubai", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Abu Dhabi", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Doha", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Kuwait City", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Manama", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Muscat", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Amman", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Beirut", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Damascus", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Jerusalem", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Tel Aviv", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Ankara", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Izmir", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Casablanca", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Rabat", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Tunis", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Tripoli", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Algiers", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Accra", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Abidjan", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Dakar", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Bamako", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Nairobi", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Addis Ababa", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Kampala", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Kigali", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Lusaka", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Harare", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Gaborone", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Windhoek", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Maputo", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Antananarivo", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Cape Town", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Durban", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Pretoria", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Auckland", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Wellington", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Christchurch", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Sydney", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Melbourne", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Brisbane", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Perth", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Adelaide", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Canberra", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Hobart", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Darwin", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Honolulu", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Anchorage", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Havana", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Kingston", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Port-au-Prince", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Santo Domingo", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Panama City", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "San Salvador", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Tegucigalpa", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Managua", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Caracas", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Quito", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Guayaquil", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Montevideo", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Asuncion", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "La Paz", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Brasilia", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Salvador", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Fortaleza", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Curitiba", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Recife", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Porto Alegre", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Manaus", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Medellin", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Cali", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Cartagena", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "kzzbsqsrzzfn", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "bvxgckvwcrp", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "xpcbjjmhk", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "clgvxtjdt", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "pkxcsvznrssrrp", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "kvxwssndnjrrj", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "dqmjkmvds", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "ssxcdmspmqzhr", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "jqcblfgnstsd", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "msczbcqjkpkj", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "rmztfwxhl", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "jckzsnglncvr", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "jltdpqqhtsrvz", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "jrlpvtpc", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "htbfdr", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "clbxcf", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "skztqzdprtf", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "fmdfdnxjfx", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "gjkchtqmhbw", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "qkcfkqtm", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "hzhbwsn", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "mjgzwjxp", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "dpnlgklbfqk", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "mlrvkmdmrndddk", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "pfnkwfmm", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "lktqpmpr", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "gpvbkcnr", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "mkknrtcvrcmflp", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "jsfdwznmt", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "jhbhxjxbvs", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "lbwxfqlz", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "bfbcgkdlgzbb", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "thfkfmp", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "lgdnghqpntrt", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "tzhbgpg", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "hwzdstnqqhcp", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "nrvfvgb", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "fsnhmhdlxppdd", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "kqsdpss", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "lqdmsrv", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "sxfcjjrw", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "fdbzrft", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "xrgqhq", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "fgmlhdd", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "fjbngkdgllt", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "shcvlxr", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "tclrffshznxqk", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "nrkhdjp", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "jsqjtf", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "plfwdprjgqvrv", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "NA", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "-", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Unknown", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "(empty)", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "no data", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "true", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "I left this comment during testing", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "My neighbor accidentally typed this into the wrong field", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "My neighbor entered free text instead of a valid option", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "The intern described their favorite movie in this cell", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Nobody pasted the wrong clipboard content here", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "The customer wrote a long note about their weekend plans", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Our team left this comment during testing", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "The previous vendor accidentally typed this into the wrong field", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "The previous vendor entered free text instead of a valid option", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "Someone described their favorite movie in this cell", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "The manager pasted the wrong clipboard content here", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}
+{"raw_value": "A stranger wrote a long note about their weekend plans", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}

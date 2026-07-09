@@ -1,0 +1,195 @@
+{"raw_value": "Afghanistan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Afghanistan"]}}]}
+{"raw_value": "Albania", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Albania"]}}]}
+{"raw_value": "Algeria", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Algeria"]}}]}
+{"raw_value": "Andorra", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Andorra"]}}]}
+{"raw_value": "Angola", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Angola"]}}]}
+{"raw_value": "Antigua and Barbuda", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Antigua and Barbuda"]}}]}
+{"raw_value": "Argentina", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Argentina"]}}]}
+{"raw_value": "Armenia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Armenia"]}}]}
+{"raw_value": "Australia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Australia"]}}]}
+{"raw_value": "Austria", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Austria"]}}]}
+{"raw_value": "Azerbaijan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Azerbaijan"]}}]}
+{"raw_value": "Bahamas", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Bahamas"]}}]}
+{"raw_value": "Bahrain", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Bahrain"]}}]}
+{"raw_value": "Bangladesh", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Bangladesh"]}}]}
+{"raw_value": "Barbados", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Barbados"]}}]}
+{"raw_value": "Belarus", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Belarus"]}}]}
+{"raw_value": "Belgium", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Belgium"]}}]}
+{"raw_value": "Belize", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Belize"]}}]}
+{"raw_value": "Benin", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Benin"]}}]}
+{"raw_value": "Bhutan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Bhutan"]}}]}
+{"raw_value": "Bolivia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Bolivia"]}}]}
+{"raw_value": "Bosnia and Herzegovina", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Bosnia and Herzegovina"]}}]}
+{"raw_value": "Botswana", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Botswana"]}}]}
+{"raw_value": "Brazil", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Brazil"]}}]}
+{"raw_value": "Brunei", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Brunei"]}}]}
+{"raw_value": "Bulgaria", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Bulgaria"]}}]}
+{"raw_value": "Burkina Faso", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Burkina Faso"]}}]}
+{"raw_value": "Burundi", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Burundi"]}}]}
+{"raw_value": "Cambodia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Cambodia"]}}]}
+{"raw_value": "Cameroon", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Cameroon"]}}]}
+{"raw_value": "Canada", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Canada"]}}]}
+{"raw_value": "Cape Verde", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Cape Verde"]}}]}
+{"raw_value": "Central African Republic", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Central African Republic"]}}]}
+{"raw_value": "Chad", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Chad"]}}]}
+{"raw_value": "Chile", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Chile"]}}]}
+{"raw_value": "China", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["China"]}}]}
+{"raw_value": "Colombia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Colombia"]}}]}
+{"raw_value": "Comoros", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Comoros"]}}]}
+{"raw_value": "Costa Rica", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Costa Rica"]}}]}
+{"raw_value": "Croatia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Croatia"]}}]}
+{"raw_value": "Cuba", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Cuba"]}}]}
+{"raw_value": "Cyprus", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Cyprus"]}}]}
+{"raw_value": "Czech Republic", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Czech Republic"]}}]}
+{"raw_value": "Democratic Republic of the Congo", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Democratic Republic of the Congo"]}}]}
+{"raw_value": "Denmark", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Denmark"]}}]}
+{"raw_value": "Djibouti", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Djibouti"]}}]}
+{"raw_value": "Dominica", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dominica"]}}]}
+{"raw_value": "Dominican Republic", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Dominican Republic"]}}]}
+{"raw_value": "East Timor", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["East Timor"]}}]}
+{"raw_value": "Ecuador", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Ecuador"]}}]}
+{"raw_value": "Egypt", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Egypt"]}}]}
+{"raw_value": "El Salvador", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["El Salvador"]}}]}
+{"raw_value": "Equatorial Guinea", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Equatorial Guinea"]}}]}
+{"raw_value": "Eritrea", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Eritrea"]}}]}
+{"raw_value": "Estonia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Estonia"]}}]}
+{"raw_value": "Eswatini", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Eswatini"]}}]}
+{"raw_value": "Ethiopia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Ethiopia"]}}]}
+{"raw_value": "Fiji", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Fiji"]}}]}
+{"raw_value": "Finland", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Finland"]}}]}
+{"raw_value": "France", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["France"]}}]}
+{"raw_value": "Gabon", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Gabon"]}}]}
+{"raw_value": "Gambia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Gambia"]}}]}
+{"raw_value": "Georgia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Georgia"]}}]}
+{"raw_value": "Germany", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Germany"]}}]}
+{"raw_value": "Ghana", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Ghana"]}}]}
+{"raw_value": "Greece", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Greece"]}}]}
+{"raw_value": "Grenada", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Grenada"]}}]}
+{"raw_value": "Guatemala", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Guatemala"]}}]}
+{"raw_value": "Guinea", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Guinea"]}}]}
+{"raw_value": "Guinea-Bissau", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Guinea-Bissau"]}}]}
+{"raw_value": "Guyana", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Guyana"]}}]}
+{"raw_value": "Haiti", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Haiti"]}}]}
+{"raw_value": "Honduras", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Honduras"]}}]}
+{"raw_value": "Hungary", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Hungary"]}}]}
+{"raw_value": "Iceland", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Iceland"]}}]}
+{"raw_value": "India", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["India"]}}]}
+{"raw_value": "Indonesia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Indonesia"]}}]}
+{"raw_value": "Iran", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Iran"]}}]}
+{"raw_value": "Iraq", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Iraq"]}}]}
+{"raw_value": "Ireland", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Ireland"]}}]}
+{"raw_value": "Israel", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Israel"]}}]}
+{"raw_value": "Italy", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Italy"]}}]}
+{"raw_value": "Ivory Coast", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Ivory Coast"]}}]}
+{"raw_value": "Jamaica", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Jamaica"]}}]}
+{"raw_value": "Japan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Japan"]}}]}
+{"raw_value": "Jordan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Jordan"]}}]}
+{"raw_value": "Kazakhstan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Kazakhstan"]}}]}
+{"raw_value": "Kenya", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Kenya"]}}]}
+{"raw_value": "Kiribati", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Kiribati"]}}]}
+{"raw_value": "Kuwait", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Kuwait"]}}]}
+{"raw_value": "Kyrgyzstan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Kyrgyzstan"]}}]}
+{"raw_value": "Laos", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Laos"]}}]}
+{"raw_value": "Latvia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Latvia"]}}]}
+{"raw_value": "Lebanon", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lebanon"]}}]}
+{"raw_value": "Lesotho", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lesotho"]}}]}
+{"raw_value": "Liberia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Liberia"]}}]}
+{"raw_value": "Libya", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Libya"]}}]}
+{"raw_value": "Liechtenstein", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Liechtenstein"]}}]}
+{"raw_value": "Lithuania", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lithuania"]}}]}
+{"raw_value": "Luxembourg", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Luxembourg"]}}]}
+{"raw_value": "Madagascar", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Madagascar"]}}]}
+{"raw_value": "Malawi", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Malawi"]}}]}
+{"raw_value": "Malaysia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Malaysia"]}}]}
+{"raw_value": "Maldives", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Maldives"]}}]}
+{"raw_value": "Mali", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mali"]}}]}
+{"raw_value": "Malta", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Malta"]}}]}
+{"raw_value": "Marshall Islands", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Marshall Islands"]}}]}
+{"raw_value": "Mauritania", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mauritania"]}}]}
+{"raw_value": "Mauritius", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mauritius"]}}]}
+{"raw_value": "Mexico", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mexico"]}}]}
+{"raw_value": "Micronesia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Micronesia"]}}]}
+{"raw_value": "Moldova", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Moldova"]}}]}
+{"raw_value": "Monaco", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Monaco"]}}]}
+{"raw_value": "Mongolia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mongolia"]}}]}
+{"raw_value": "Montenegro", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Montenegro"]}}]}
+{"raw_value": "Morocco", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Morocco"]}}]}
+{"raw_value": "Mozambique", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mozambique"]}}]}
+{"raw_value": "Myanmar", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Myanmar"]}}]}
+{"raw_value": "Namibia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Namibia"]}}]}
+{"raw_value": "Nauru", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Nauru"]}}]}
+{"raw_value": "Nepal", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Nepal"]}}]}
+{"raw_value": "Netherlands", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Netherlands"]}}]}
+{"raw_value": "New Zealand", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["New Zealand"]}}]}
+{"raw_value": "Nicaragua", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Nicaragua"]}}]}
+{"raw_value": "Niger", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Niger"]}}]}
+{"raw_value": "Nigeria", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Nigeria"]}}]}
+{"raw_value": "North Korea", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["North Korea"]}}]}
+{"raw_value": "North Macedonia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["North Macedonia"]}}]}
+{"raw_value": "Norway", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Norway"]}}]}
+{"raw_value": "Oman", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Oman"]}}]}
+{"raw_value": "Pakistan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Pakistan"]}}]}
+{"raw_value": "Palau", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Palau"]}}]}
+{"raw_value": "Panama", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Panama"]}}]}
+{"raw_value": "Papua New Guinea", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Papua New Guinea"]}}]}
+{"raw_value": "Paraguay", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Paraguay"]}}]}
+{"raw_value": "Peru", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Peru"]}}]}
+{"raw_value": "Philippines", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Philippines"]}}]}
+{"raw_value": "Poland", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Poland"]}}]}
+{"raw_value": "Portugal", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Portugal"]}}]}
+{"raw_value": "Qatar", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Qatar"]}}]}
+{"raw_value": "Republic of the Congo", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Republic of the Congo"]}}]}
+{"raw_value": "Romania", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Romania"]}}]}
+{"raw_value": "Russia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Russia"]}}]}
+{"raw_value": "Rwanda", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Rwanda"]}}]}
+{"raw_value": "Saint Kitts and Nevis", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Saint Kitts and Nevis"]}}]}
+{"raw_value": "Saint Lucia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Saint Lucia"]}}]}
+{"raw_value": "Saint Vincent and the Grenadines", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Saint Vincent and the Grenadines"]}}]}
+{"raw_value": "Samoa", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Samoa"]}}]}
+{"raw_value": "San Marino", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["San Marino"]}}]}
+{"raw_value": "Sao Tome and Principe", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Sao Tome and Principe"]}}]}
+{"raw_value": "Saudi Arabia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Saudi Arabia"]}}]}
+{"raw_value": "Senegal", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Senegal"]}}]}
+{"raw_value": "Serbia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Serbia"]}}]}
+{"raw_value": "Seychelles", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Seychelles"]}}]}
+{"raw_value": "Sierra Leone", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Sierra Leone"]}}]}
+{"raw_value": "Singapore", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Singapore"]}}]}
+{"raw_value": "Slovakia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Slovakia"]}}]}
+{"raw_value": "Slovenia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Slovenia"]}}]}
+{"raw_value": "Solomon Islands", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Solomon Islands"]}}]}
+{"raw_value": "Somalia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Somalia"]}}]}
+{"raw_value": "South Africa", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["South Africa"]}}]}
+{"raw_value": "South Korea", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["South Korea"]}}]}
+{"raw_value": "South Sudan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["South Sudan"]}}]}
+{"raw_value": "Spain", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Spain"]}}]}
+{"raw_value": "Sri Lanka", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Sri Lanka"]}}]}
+{"raw_value": "Sudan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Sudan"]}}]}
+{"raw_value": "Suriname", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Suriname"]}}]}
+{"raw_value": "Sweden", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Sweden"]}}]}
+{"raw_value": "Switzerland", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Switzerland"]}}]}
+{"raw_value": "Syria", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Syria"]}}]}
+{"raw_value": "Taiwan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Taiwan"]}}]}
+{"raw_value": "Tajikistan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Tajikistan"]}}]}
+{"raw_value": "Tanzania", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Tanzania"]}}]}
+{"raw_value": "Thailand", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Thailand"]}}]}
+{"raw_value": "Togo", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Togo"]}}]}
+{"raw_value": "Tonga", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Tonga"]}}]}
+{"raw_value": "Trinidad and Tobago", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Trinidad and Tobago"]}}]}
+{"raw_value": "Tunisia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Tunisia"]}}]}
+{"raw_value": "Turkey", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Turkey"]}}]}
+{"raw_value": "Turkmenistan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Turkmenistan"]}}]}
+{"raw_value": "Tuvalu", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Tuvalu"]}}]}
+{"raw_value": "Uganda", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Uganda"]}}]}
+{"raw_value": "Ukraine", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Ukraine"]}}]}
+{"raw_value": "United Arab Emirates", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["United Arab Emirates"]}}]}
+{"raw_value": "United Kingdom", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["United Kingdom"]}}]}
+{"raw_value": "United States", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["United States"]}}]}
+{"raw_value": "Uruguay", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Uruguay"]}}]}
+{"raw_value": "Uzbekistan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Uzbekistan"]}}]}
+{"raw_value": "Vanuatu", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Vanuatu"]}}]}
+{"raw_value": "Vatican City", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Vatican City"]}}]}
+{"raw_value": "Venezuela", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Venezuela"]}}]}
+{"raw_value": "Vietnam", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Vietnam"]}}]}
+{"raw_value": "Yemen", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Yemen"]}}]}
+{"raw_value": "Zambia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Zambia"]}}]}
+{"raw_value": "Zimbabwe", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Zimbabwe"]}}]}

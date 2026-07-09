@@ -1,0 +1,102 @@
+{"raw_value": "junior software engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Junior Software Engineer"]}}]}
+{"raw_value": "Junior Daat Engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Junior Data Engineer"]}}]}
+{"raw_value": "Junior QA Engineerr", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Junior QA Engineer"]}}]}
+{"raw_value": "junior devops engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Junior DevOps Engineer"]}}]}
+{"raw_value": "junior machine learning engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Junior Machine Learning Engineer"]}}]}
+{"raw_value": "Junior Security Engineer??", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Junior Security Engineer"]}}]}
+{"raw_value": "Junior Cloud Engineeer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Junior Cloud Engineer"]}}]}
+{"raw_value": "Junior Fronted Engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Junior Frontend Engineer"]}}]}
+{"raw_value": "Jr. Backend Engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Junior Backend Engineer"]}}]}
+{"raw_value": "Junior Mobile Engineeer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Junior Mobile Engineer"]}}]}
+{"raw_value": "Juniorr Platform Engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Junior Platform Engineer"]}}]}
+{"raw_value": "JUNIOR SITE RELIABILITY ENGINEER", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Junior Site Reliability Engineer"]}}]}
+{"raw_value": "MID-LEVEL SOFTWARE ENGINEER", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mid-Level Software Engineer"]}}]}
+{"raw_value": "mid-level data engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mid-Level Data Engineer"]}}]}
+{"raw_value": "Mid-Leel QA Engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mid-Level QA Engineer"]}}]}
+{"raw_value": "MID-LEVEL DEVOPS ENGINEER", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mid-Level DevOps Engineer"]}}]}
+{"raw_value": "Mid-Levell Machine Learning Engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mid-Level Machine Learning Engineer"]}}]}
+{"raw_value": "Mid-Level Security Enginer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mid-Level Security Engineer"]}}]}
+{"raw_value": "Mid-Level Cloud Egineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mid-Level Cloud Engineer"]}}]}
+{"raw_value": "Mid-Level Fontend Engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mid-Level Frontend Engineer"]}}]}
+{"raw_value": "Mid-Level Backend Engieer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mid-Level Backend Engineer"]}}]}
+{"raw_value": "mid-level mobile engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mid-Level Mobile Engineer"]}}]}
+{"raw_value": "Mid-Level Platform Enggineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mid-Level Platform Engineer"]}}]}
+{"raw_value": "Mid-Level Site Reilability Engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mid-Level Site Reliability Engineer"]}}]}
+{"raw_value": "Seior Software Engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Senior Software Engineer"]}}]}
+{"raw_value": "SENIOR DATA ENGINEER", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Senior Data Engineer"]}}]}
+{"raw_value": "Senior QA Enigneer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Senior QA Engineer"]}}]}
+{"raw_value": "Sr. DevOps Engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Senior DevOps Engineer"]}}]}
+{"raw_value": "SENIOR MACHINE LEARNING ENGINEER", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Senior Machine Learning Engineer"]}}]}
+{"raw_value": "Sr. Security Engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Senior Security Engineer"]}}]}
+{"raw_value": "Senior Cloud Engineer##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Senior Cloud Engineer"]}}]}
+{"raw_value": "Senior Frontend Engineer!@#", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Senior Frontend Engineer"]}}]}
+{"raw_value": "Senior Backend nEgineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Senior Backend Engineer"]}}]}
+{"raw_value": "Snior Mobile Engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Senior Mobile Engineer"]}}]}
+{"raw_value": "Senior Platform Engineer##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Senior Platform Engineer"]}}]}
+{"raw_value": "Senior Site Reliability Enngineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Senior Site Reliability Engineer"]}}]}
+{"raw_value": "Satff Software Engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Staff Software Engineer"]}}]}
+{"raw_value": "Staff Data Engineeer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Staff Data Engineer"]}}]}
+{"raw_value": "Staff QA Engieer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Staff QA Engineer"]}}]}
+{"raw_value": "staff devops engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Staff DevOps Engineer"]}}]}
+{"raw_value": "STAFF MACHINE LEARNING ENGINEER", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Staff Machine Learning Engineer"]}}]}
+{"raw_value": "Staff Security Enginer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Staff Security Engineer"]}}]}
+{"raw_value": "Staff Cloud nEgineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Staff Cloud Engineer"]}}]}
+{"raw_value": "staff frontend engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Staff Frontend Engineer"]}}]}
+{"raw_value": "Staff Backend Engineer***", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Staff Backend Engineer"]}}]}
+{"raw_value": "Staff Mobile Egineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Staff Mobile Engineer"]}}]}
+{"raw_value": "Staff Platform Engineer##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Staff Platform Engineer"]}}]}
+{"raw_value": "staff site reliability engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Staff Site Reliability Engineer"]}}]}
+{"raw_value": "Prinncipal Software Engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Principal Software Engineer"]}}]}
+{"raw_value": "PRINCIPAL DATA ENGINEER", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Principal Data Engineer"]}}]}
+{"raw_value": "Pricnipal QA Engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Principal QA Engineer"]}}]}
+{"raw_value": "PRINCIPAL DEVOPS ENGINEER", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Principal DevOps Engineer"]}}]}
+{"raw_value": "PRINCIPAL MACHINE LEARNING ENGINEER", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Principal Machine Learning Engineer"]}}]}
+{"raw_value": "Principal Security Enginneer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Principal Security Engineer"]}}]}
+{"raw_value": "Pricnipal Cloud Engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Principal Cloud Engineer"]}}]}
+{"raw_value": "principal frontend engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Principal Frontend Engineer"]}}]}
+{"raw_value": "principal backend engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Principal Backend Engineer"]}}]}
+{"raw_value": "Principal Mobile Enginer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Principal Mobile Engineer"]}}]}
+{"raw_value": "Principal latform Engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Principal Platform Engineer"]}}]}
+{"raw_value": "PRINCIPAL SITE RELIABILITY ENGINEER", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Principal Site Reliability Engineer"]}}]}
+{"raw_value": "LEAD SOFTWARE ENGINEER", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lead Software Engineer"]}}]}
+{"raw_value": "Lead Data Engineer!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lead Data Engineer"]}}]}
+{"raw_value": "Lead QA Engineeer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lead QA Engineer"]}}]}
+{"raw_value": "lead devops engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lead DevOps Engineer"]}}]}
+{"raw_value": "Lead Machine Learning Egineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lead Machine Learning Engineer"]}}]}
+{"raw_value": "Lead Security Engiener", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lead Security Engineer"]}}]}
+{"raw_value": "LEAD CLOUD ENGINEER", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lead Cloud Engineer"]}}]}
+{"raw_value": "Leadd Frontend Engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lead Frontend Engineer"]}}]}
+{"raw_value": "LEAD BACKEND ENGINEER", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lead Backend Engineer"]}}]}
+{"raw_value": "Lead Mobile Engineer##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lead Mobile Engineer"]}}]}
+{"raw_value": "LEAD PLATFORM ENGINEER", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lead Platform Engineer"]}}]}
+{"raw_value": "Lead Site Reliabilty Engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Lead Site Reliability Engineer"]}}]}
+{"raw_value": "Chief Executive Officer!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Chief Executive Officer"]}}]}
+{"raw_value": "CTO", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Chief Technology Officer"]}}]}
+{"raw_value": "chief financial officer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Chief Financial Officer"]}}]}
+{"raw_value": "Chief Operating Officer!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Chief Operating Officer"]}}]}
+{"raw_value": "Chhief Information Officer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Chief Information Officer"]}}]}
+{"raw_value": "CMO", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Chief Marketing Officer"]}}]}
+{"raw_value": "Product Manager??", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Product Manager"]}}]}
+{"raw_value": "Project Manaegr", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Project Manager"]}}]}
+{"raw_value": "Program Manager!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Program Manager"]}}]}
+{"raw_value": "Busineess Analyst", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Business Analyst"]}}]}
+{"raw_value": "data analyst", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Data Analyst"]}}]}
+{"raw_value": "Data Scentist", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Data Scientist"]}}]}
+{"raw_value": "UX Designe", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["UX Designer"]}}]}
+{"raw_value": "UI Desigenr", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["UI Designer"]}}]}
+{"raw_value": "Graphic Dessigner", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Graphic Designer"]}}]}
+{"raw_value": "Scrum Matser", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Scrum Master"]}}]}
+{"raw_value": "Solutions Acrhitect", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Solutions Architect"]}}]}
+{"raw_value": "Enterprise Arcchitect", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Enterprise Architect"]}}]}
+{"raw_value": "software architect", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Software Architect"]}}]}
+{"raw_value": "Engineeering Manager", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Engineering Manager"]}}]}
+{"raw_value": "TECHNICAL WRITER", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Technical Writer"]}}]}
+{"raw_value": "Databbase Administrator", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Database Administrator"]}}]}
+{"raw_value": "SysAdmin", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["System Administrator"]}}]}
+{"raw_value": "Network Engiineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Network Engineer"]}}]}
+{"raw_value": "Suport Engineer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Support Engineer"]}}]}
+{"raw_value": "Release Manager!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Release Manager"]}}]}
+{"raw_value": "Product Owner##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Product Owner"]}}]}
+{"raw_value": "VP of Engineerig", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["VP of Engineering"]}}]}
+{"raw_value": "Director of Engineeirng", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Director of Engineering"]}}]}
+{"raw_value": "Haed of Product", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Head of Product"]}}]}
