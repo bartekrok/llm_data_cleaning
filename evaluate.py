@@ -76,8 +76,10 @@ def norm(s):
 
 def ref_norm(s):
     """Normalization for same-referent comparison: casefold and strip
-    everything that is not a letter or digit ('Smart Watch' == 'smartwatch')."""
-    return re.sub(r"[^a-z0-9]", "", (s or "").casefold())
+    everything that is not a letter or digit ('Smart Watch' == 'smartwatch').
+    '#' and '+' are kept -- they are distinctive, not noise ('C' vs 'C++'
+    vs 'C#' must not collide)."""
+    return re.sub(r"[^a-z0-9#+]", "", (s or "").casefold())
 
 
 def lev_ratio(a, b):
