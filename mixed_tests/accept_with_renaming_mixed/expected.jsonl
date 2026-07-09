@@ -1,0 +1,10 @@
+{"raw_value": "IT", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Information Technology"]}}]}
+{"raw_value": "Human Resources", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["HR"]}}]}
+{"raw_value": "CEO", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Chief Executive Officer"]}}]}
+{"raw_value": "Chief Financial Officer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["CFO"]}}]}
+{"raw_value": "Calyfornia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["California"]}}]}
+{"raw_value": "TX", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Texas"]}}]}
+{"raw_value": "NY", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["New York"]}}]}
+{"raw_value": "Dev", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Software Engineer"]}}, {"state": "suggest", "value": {"mode": "same_referent_as_input", "aliases": ["Developer"]}}]}
+{"raw_value": "Great Britain", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["United Kingdom"]}}]}
+{"raw_value": "Manager!@#", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Manager"]}}]}

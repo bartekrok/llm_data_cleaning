@@ -1,0 +1,2 @@
+{"raw_value": "CEO", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Chief Executive Officer"]}}]}
+{"raw_value": "Chief Financial Officer", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["CFO"]}}]}

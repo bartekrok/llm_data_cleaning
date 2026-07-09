@@ -1,0 +1,1 @@
+{"raw_value": "Great Britain", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["United Kingdom"]}}]}

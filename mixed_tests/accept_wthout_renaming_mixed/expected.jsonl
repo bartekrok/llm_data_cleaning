@@ -1,0 +1,8 @@
+{"raw_value": "Apple", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Apple"]}}]}
+{"raw_value": "Banana", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Banana"]}}]}
+{"raw_value": "Orange", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Orange"]}}]}
+{"raw_value": "Human Resources", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Human Resources"]}}]}
+{"raw_value": "Finance", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Finance"]}}]}
+{"raw_value": "Marketing", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Marketing"]}}]}
+{"raw_value": "Sales", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Sales"]}}]}
+{"raw_value": "This is a very long sentence about nothing really but the idea is to have it renamed to banana", "allowed": [{"state": "decline", "value": {"mode": "empty"}}]}

@@ -1,0 +1,2 @@
+{"raw_value": "Marketing", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Marketing"]}}]}
+{"raw_value": "Sales", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Sales"]}}]}

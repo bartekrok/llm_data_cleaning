@@ -1,0 +1,2 @@
+{"raw_value": "Dev", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Software Engineer"]}}, {"state": "suggest", "value": {"mode": "same_referent_as_input", "aliases": ["Developer"]}}]}
+{"raw_value": "Manager!@#", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Manager"]}}]}

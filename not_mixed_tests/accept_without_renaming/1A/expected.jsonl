@@ -1,0 +1,3 @@
+{"raw_value": "Apple", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Apple"]}}]}
+{"raw_value": "Banana", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Banana"]}}]}
+{"raw_value": "Orange", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Orange"]}}]}

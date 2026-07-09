@@ -1,0 +1,3 @@
+{"raw_value": "Calyfornia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["California"]}}]}
+{"raw_value": "TX", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Texas"]}}]}
+{"raw_value": "NY", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["New York"]}}]}

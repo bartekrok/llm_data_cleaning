@@ -1,0 +1,2 @@
+{"raw_value": "IT", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Information Technology"]}}]}
+{"raw_value": "Human Resources", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["HR"]}}]}

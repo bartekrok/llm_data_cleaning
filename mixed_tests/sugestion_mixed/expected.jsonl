@@ -1,0 +1,3 @@
+{"raw_value": "Smartwatch", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Rust", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Iguana", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}

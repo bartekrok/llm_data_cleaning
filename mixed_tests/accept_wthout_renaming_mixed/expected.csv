@@ -1,9 +1,0 @@
-raw_value,state,value,alt_state,alt_value
-Apple,acceptance,Apple,,
-Banana,acceptance,Banana,,
-Orange,acceptance,Orange,,
-Human Resources,acceptance,Human Resources,,
-Finance,acceptance,Finance,,
-Marketing,acceptance,Marketing,,
-Sales,acceptance,Sales,,
-This is a very long sentence about nothing really but the idea is to have it renamed to banana,decline,,,
