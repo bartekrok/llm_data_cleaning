@@ -9,25 +9,30 @@ Layout convention:
         input_data.csv      - one column 'raw_value' with one or more inputs
         expected.csv        - OPTIONAL one row per input_data row with
                               columns: expected_state, expected_value, notes
+        expected.jsonl      - OPTIONAL predicate gold (preferred when present);
+                              one JSON object per input with an `allowed` list.
+                              The PRIMARY (first) allowed entry becomes
+                              expected_state / expected_value for the harness.
 
-If `expected.csv` is missing we infer:
+If both expected files are missing we infer:
     - expected_state from the scenario folder name
-    - expected_value from a per-scenario heuristic + a hand-curated map
-      maintained in EXPECTED_MAP below
+    - expected_value from a per-scenario heuristic
 
 Naming examples produced by this loader:
     not_mixed_tests/accept_with_renaming/2A:1
     mixed_tests/decline_mixed:3
+    large_tests/accept_with_renaming/animals:0
     adversarial/prompt_injection:0
 """
 
 from __future__ import annotations
 
 import csv
+import json
 import os
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Iterable, Iterator, Optional
+from typing import Any, Iterable, Iterator, Optional
 
 from llm_cleaner.etl import TestCaseRow
 
@@ -43,6 +48,7 @@ SCENARIO_FROM_FOLDER = {
     "decline_mixed": "mixed",
     "sugestion_mixed": "mixed",
     "suggestion_mixed": "mixed",
+    "mixed": "mixed",
     "adversarial": "adversarial",
     "scope_scaling": "scope_scaling",
     "typo_ladder": "accept_rename",
@@ -66,6 +72,7 @@ EXPECTED_STATE_FROM_FOLDER = {
     "decline_mixed": "decline",
     "sugestion_mixed": "suggest",
     "suggestion_mixed": "suggest",
+    "mixed": None,
     "adversarial": None,
     "scope_scaling": None,
     "typo_ladder": "acceptance",
@@ -106,6 +113,76 @@ def _load_expected_csv(path: Path) -> list[dict[str, Optional[str]]]:
                     "expected_state": (row.get("expected_state") or "").strip() or None,
                     "expected_value": (row.get("expected_value") or "").strip() or None,
                     "notes": (row.get("notes") or "").strip() or None,
+                }
+            )
+    return rows
+
+
+def _value_from_predicate(value_spec: Any, raw_value: str) -> Optional[str]:
+    """Map an expected.jsonl value predicate to a single expected_value string.
+
+    Modes (from the referent-based gold format):
+      one_of / exact  -> first closed item (acceptance targets a scope label)
+      empty           -> None (decline)
+      same_referent_as_input -> first alias if present, else the raw input
+                               (open answer space for suggest)
+    """
+    if not isinstance(value_spec, dict):
+        return None
+    mode = (value_spec.get("mode") or "").strip().lower()
+    if mode in ("one_of", "exact"):
+        items = value_spec.get("items") or []
+        if mode == "exact" and value_spec.get("item"):
+            return str(value_spec["item"]).strip() or None
+        if items:
+            return str(items[0]).strip() or None
+        return None
+    if mode == "empty":
+        return None
+    if mode == "same_referent_as_input":
+        aliases = value_spec.get("aliases") or []
+        if aliases:
+            return str(aliases[0]).strip() or None
+        return raw_value.strip() or None
+    return None
+
+
+def _load_expected_jsonl(path: Path) -> list[dict[str, Optional[str]]]:
+    """Load predicate gold specs; keep only the PRIMARY allowed entry per row."""
+    rows: list[dict[str, Optional[str]]] = []
+    if not path.exists():
+        return rows
+    with path.open("r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            obj = json.loads(line)
+            raw_value = str(obj.get("raw_value") or "")
+            allowed = obj.get("allowed") or []
+            if not allowed:
+                rows.append(
+                    {
+                        "expected_state": None,
+                        "expected_value": None,
+                        "notes": "jsonl missing allowed[]",
+                    }
+                )
+                continue
+            primary = allowed[0]
+            state = (primary.get("state") or "").strip() or None
+            value = _value_from_predicate(primary.get("value"), raw_value)
+            note_parts = [f"gold_mode={(primary.get('value') or {}).get('mode', '?')}"]
+            if len(allowed) > 1:
+                alts = ",".join(
+                    (a.get("state") or "?") for a in allowed[1:]
+                )
+                note_parts.append(f"lenient_alts={alts}")
+            rows.append(
+                {
+                    "expected_state": state,
+                    "expected_value": value,
+                    "notes": "; ".join(note_parts),
                 }
             )
     return rows
@@ -161,6 +238,7 @@ def iter_test_cases(repo_root: Path) -> Iterator[TestCaseRow]:
         repo_root / "tests_data" / "adversarial",
         repo_root / "tests_data" / "scope_scaling",
         repo_root / "tests_data" / "extra",
+        repo_root / "large_tests",
     ]
 
     for root in candidates:
@@ -168,7 +246,8 @@ def iter_test_cases(repo_root: Path) -> Iterator[TestCaseRow]:
             continue
         for scope_path in root.rglob("scope.csv"):
             input_path = scope_path.parent / "input_data.csv"
-            expected_path = scope_path.parent / "expected.csv"
+            expected_csv_path = scope_path.parent / "expected.csv"
+            expected_jsonl_path = scope_path.parent / "expected.jsonl"
             if not input_path.exists():
                 continue
 
@@ -188,7 +267,11 @@ def iter_test_cases(repo_root: Path) -> Iterator[TestCaseRow]:
                 header_aliases=("scope", "value", "scope_value", "allowed", "name", "raw_value"),
             )
             values = _load_csv_column(input_path, header_aliases=("raw_value", "value"))
-            expected_rows = _load_expected_csv(expected_path)
+            # Prefer predicate jsonl (large_tests / referent-based gold) over csv.
+            if expected_jsonl_path.exists():
+                expected_rows = _load_expected_jsonl(expected_jsonl_path)
+            else:
+                expected_rows = _load_expected_csv(expected_csv_path)
 
             for idx, raw_value in enumerate(values):
                 if idx < len(expected_rows):
@@ -201,7 +284,7 @@ def iter_test_cases(repo_root: Path) -> Iterator[TestCaseRow]:
                     notes = None
 
                 if e_state is None:
-                    notes = (notes or "") + " [needs expected_state]"
+                    notes = ((notes or "") + " [needs expected_state]").strip()
 
                 test_name = f"{rel}:{idx}"
                 yield TestCaseRow(

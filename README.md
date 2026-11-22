@@ -25,13 +25,15 @@ design.
 │   ├── seed.py                 Walks CSV folders into test_cases rows
 │   ├── analyze.py              Metrics + plots
 │   └── experiments/            One file per experiment (exp01..exp09)
-├── not_mixed_tests/            Original test cases (with new expected.csv files)
-├── mixed_tests/                Original mixed tests (with new expected.csv files)
-└── tests_data/                 New test cases
-    ├── extra/                    typo_ladder, abbreviations, synonyms, ambiguous,
-    │                             noise, edge_decline, edge_suggest, long_inputs
-    ├── adversarial/              prompt_injection, homoglyphs, empty_and_emoji
-    └── scope_scaling/            countries_5, countries_20, countries_50, countries_200
+├── not_mixed_tests/            Original test cases (with expected.csv)
+├── mixed_tests/                Original mixed tests (with expected.csv)
+├── tests_data/                 Curated extras
+│   ├── extra/                    typo_ladder, abbreviations, synonyms, ambiguous,
+│   │                             noise, edge_decline, edge_suggest, long_inputs
+│   ├── adversarial/              prompt_injection, homoglyphs, empty_and_emoji
+│   └── scope_scaling/            countries_5, countries_20, countries_50, countries_200
+├── large_tests/                ~6k-row generated suite (expected.jsonl gold)
+└── generate_data.py            Reproducible generator for large_tests/ (seed=42)
 ```
 
 ## Quick start
@@ -71,6 +73,25 @@ Each invocation prints an `experiment_id` UUID at the end; pass it to
 The `--limit N` flag truncates the test set to N for development runs
 and applies to every experiment.
 
+### Suites: small vs large
+
+By default experiments run on the **small** suite only
+(`not_mixed_tests/`, `mixed_tests/`, `tests_data/`). The generated
+`large_tests/` corpus (~6188 inputs across 10 domains + a big mixed set)
+is seeded into Postgres but excluded unless you opt in:
+
+```powershell
+python harness.py run --experiment exp07_baselines --suite large --limit 50
+python harness.py run --experiment exp01_core_matrix --suite all --limit 20
+```
+
+`--suite` values: `small` (default), `large`, `all`.
+
+Gold labels in `large_tests/` use predicate `expected.jsonl` (referent-based
+`one_of` / `empty` / `same_referent_as_input`). The seeder maps the **primary**
+allowed entry into `expected_state` / `expected_value` for the harness. Rebuild
+the corpus with `python generate_data.py` (fixed seed).
+
 ## Experiment registry
 
 | Name | RQ | Models | Prompts | Modes | Reps | Notes |
@@ -100,14 +121,15 @@ That's it.
 
 ## Adding a new test case
 
-Create a folder under one of the data roots with two CSVs:
+Create a folder under one of the data roots with:
 
 ```
 tests_data/extra/<group>/<case>/
     scope.csv          # one column, header optional
     input_data.csv     # column 'raw_value'
-    expected.csv       # columns: expected_state, expected_value, notes
-                       # one row per input_data row
+    expected.csv       # OR expected.jsonl (see large_tests/)
+                       # csv columns: expected_state, expected_value, notes
+                       # one row / line per input_data row
 ```
 
 Then re-run `python harness.py seed` (it upserts, so duplicates are safe).

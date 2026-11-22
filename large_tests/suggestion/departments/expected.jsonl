@@ -1,0 +1,34 @@
+{"raw_value": "Accounting", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Business Development", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Category Management", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Compliance", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Corporate Communications", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Customer Success", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Data Analytics", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Design", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Engineering", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Facilities", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Field Services", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Finance", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Health and Safety", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Human Resources", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Information Technology", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Internal Audit", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Investor Relations", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Learning and Development", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Legal", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Logistics", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Manufacturing", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Marketing", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Merchandising", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Operations", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Partnerships", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Payroll", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Procurement", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Product Management", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Public Relations", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Recruiting", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Sales", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Security", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Strategy", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Supply Chain", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}

@@ -10,6 +10,7 @@ Examples:
     python harness.py seed
     python harness.py run --experiment exp09_smoke
     python harness.py run --experiment exp01_core_matrix --limit 10
+    python harness.py run --experiment exp07_baselines --suite large --limit 20
     python harness.py analyze --experiment-id <uuid> --out reports/
     python harness.py list
 """
@@ -66,7 +67,12 @@ def cmd_run(args: argparse.Namespace) -> int:
     from llm_cleaner.experiments import get_experiment
 
     experiment_fn = get_experiment(args.experiment)
-    with make_context(args.experiment, limit=args.limit, dry_run=args.dry_run) as ctx:
+    with make_context(
+        args.experiment,
+        limit=args.limit,
+        dry_run=args.dry_run,
+        suite=args.suite,
+    ) as ctx:
         experiment_fn(ctx)
         print(f"\nDone. experiment_id={ctx.experiment_id}")
         if not args.dry_run:
@@ -123,6 +129,12 @@ def build_parser() -> argparse.ArgumentParser:
     p_run = sub.add_parser("run", help="Run a registered experiment")
     p_run.add_argument("--experiment", required=True, help="Experiment name, e.g. exp01_core_matrix")
     p_run.add_argument("--limit", type=int, default=None, help="Truncate test cases to N for dev runs")
+    p_run.add_argument(
+        "--suite",
+        choices=("small", "large", "all"),
+        default="small",
+        help="Which test folders to include: small (default), large_tests/, or all",
+    )
     p_run.add_argument("--dry-run", action="store_true", help="Compute but do not insert runs")
     p_run.set_defaults(func=cmd_run)
 

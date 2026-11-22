@@ -48,6 +48,14 @@ BASELINE_FUZZY = "baseline/fuzzy"
 BASELINE_EMBED = "baseline/embedding"
 BASELINE_NAMES = (BASELINE_FUZZY, BASELINE_EMBED)
 
+# Path prefixes for --suite. Default "small" keeps expensive experiments off
+# the ~6k-row large_tests/ corpus unless the user opts in.
+SUITE_PREFIXES: dict[str, Optional[tuple[str, ...]]] = {
+    "small": ("not_mixed_tests/", "mixed_tests/", "tests_data/"),
+    "large": ("large_tests/",),
+    "all": None,
+}
+
 
 @dataclass
 class RunContext:
@@ -57,6 +65,7 @@ class RunContext:
     limit: Optional[int] = None
     dry_run: bool = False
     verbose: bool = True
+    suite: str = "small"
     cleaner_cache: dict[str, Cleaner] = field(default_factory=dict)
 
     def get_cleaner(self, model_id: str) -> Cleaner:
@@ -348,18 +357,35 @@ def load_cases(
     name_prefixes: Optional[Sequence[str]] = None,
     name_in: Optional[Sequence[str]] = None,
 ) -> list[TestCaseRow]:
-    """Convenience: read test cases from the DB and apply ctx.limit."""
+    """Convenience: read test cases from the DB and apply ctx.limit.
+
+    When `name_prefixes` is omitted, filters by `ctx.suite` so default runs
+    stay on the small curated suites and skip `large_tests/` unless
+    `--suite large` or `--suite all` is passed.
+    """
+    prefixes: Optional[Sequence[str]] = name_prefixes
+    if prefixes is None:
+        suite_prefixes = SUITE_PREFIXES.get(ctx.suite, SUITE_PREFIXES["small"])
+        prefixes = suite_prefixes
     cases = fetch_test_cases(
         ctx.conn,
         scenarios=scenarios,
-        name_prefixes=name_prefixes,
+        name_prefixes=prefixes,
         name_in=name_in,
     )
     return _truncate(cases, ctx.limit)
 
 
 @contextmanager
-def make_context(experiment_name: str, *, limit: Optional[int] = None, dry_run: bool = False) -> Iterator[RunContext]:
+def make_context(
+    experiment_name: str,
+    *,
+    limit: Optional[int] = None,
+    dry_run: bool = False,
+    suite: str = "small",
+) -> Iterator[RunContext]:
+    if suite not in SUITE_PREFIXES:
+        raise ValueError(f"Unknown suite {suite!r}; choose from {sorted(SUITE_PREFIXES)}")
     experiment_id = str(uuid.uuid4())
     with connect() as conn:
         ctx = RunContext(
@@ -368,7 +394,8 @@ def make_context(experiment_name: str, *, limit: Optional[int] = None, dry_run: 
             conn=conn,
             limit=limit,
             dry_run=dry_run,
+            suite=suite,
         )
-        ctx.log(f"=== Experiment {experiment_name} ({experiment_id}) ===")
+        ctx.log(f"=== Experiment {experiment_name} ({experiment_id}) suite={suite} ===")
         yield ctx
         ctx.log(f"=== Done. experiment_id={experiment_id} ===")
