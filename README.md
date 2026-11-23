@@ -85,6 +85,8 @@ python harness.py run --experiment exp01_core_matrix --suite all --limit 20
 ```
 
 `--suite` values: `small` (default), `large`, `all`.
+On `large`/`all`, `exp01_core_matrix` defaults to **1 repetition** (use
+`--repetitions 3` only if budget allows).
 
 Gold labels in `large_tests/` use predicate `expected.jsonl` (referent-based
 `one_of` / `empty` / `same_referent_as_input`). The seeder maps the **primary**
@@ -95,7 +97,7 @@ the corpus with `python generate_data.py` (fixed seed).
 
 | Name | RQ | Models | Prompts | Modes | Reps | Notes |
 |------|----|--------|---------|-------|------|-------|
-| `exp01_core_matrix` | RQ1 | 6 | P0 | single | 3 | Headline accuracy numbers |
+| `exp01_core_matrix` | RQ1 | 6 | P0 | single | 3 (1 on large) | Headline accuracy; 1 rep on `--suite large` |
 | `exp02_prompt_ablation` | RQ2 | 6 | P0..P4 | single | 3 | Is prompt > model? |
 | `exp03_batch_vs_single` | RQ3a | 6 | P0 | single + batch x4 shuffles | 3 | Order bias |
 | `exp04_variance` | RQ5 | 3 cheap | P0 | single | 10 | T ∈ {0, 0.1, 0.7, 1.0} |
@@ -183,12 +185,34 @@ script. The harness:
 Each call records which `response_format_used` it ended up with in the
 `runs` table so model-by-model schema support can be reported.
 
-## Cost ballpark
+## Cost ballpark (hard cap ~$100)
 
-See plan §8. Running all 8 substantive experiments on the full test set
-should cost roughly **$200–$400** at 2026 OpenRouter prices, comfortably
-inside the $1000 budget. `--limit 5` brings any individual experiment to
-under $5 for development.
+Prices from live OpenRouter `/api/v1/models` (prompt/completion $/1M),
+assuming ~900 input tokens and ~150 output (chat) / ~700 (reasoners) per call.
+`deepseek-r1-0528` dominates cost (~$0.002/call); gemma free is $0.
+
+| Plan | Calls (approx) | Blended est. | Worst (all as R1) |
+|------|----------------|--------------|-------------------|
+| Small suite, all exp01–09 (defaults) | ~6.7k | **~$3–4** | ~$14 |
+| Large `exp01`, 6 models × **1 rep** (default on `--suite large`) | ~37k | **~$19** | ~$78 |
+| Large `exp01`, 6 models × 3 reps (opt-in `--repetitions 3`) | ~111k | ~$57 | ~$235 |
+
+**Recommended thesis budget under $100:**
+
+```powershell
+# 1) All RQs on curated small suite (~$4)
+python harness.py run --experiment exp01_core_matrix
+python harness.py run --experiment exp02_prompt_ablation
+# ... exp03..exp08, exp09_smoke
+
+# 2) Large confirmation pass — 1 rep is the default for suite=large
+python harness.py run --experiment exp01_core_matrix --suite large
+```
+
+Expected total **~$22–35** (with token/retry headroom still under **$100**).
+Do **not** pass `--repetitions 3` on the full large suite unless you have
+budget left — that is the ~$235 worst-case path. Use `--limit N` for
+dev; `--repetitions N` overrides the suite default.
 
 ## Legacy mode
 

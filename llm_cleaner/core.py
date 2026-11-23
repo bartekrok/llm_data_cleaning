@@ -57,6 +57,17 @@ SUITE_PREFIXES: dict[str, Optional[tuple[str, ...]]] = {
 }
 
 
+def suite_repetitions(suite: str, *, small: int = 3, large: int = 1) -> int:
+    """Budget-safe defaults: full reps on small suite, single pass on large/all.
+
+    Large suite is ~6k cases; 3 reps x 6 models can blow a ~$100 thesis budget
+    if the expensive reasoner dominates. Override via ``RunContext.repetitions``.
+    """
+    if suite in ("large", "all"):
+        return large
+    return small
+
+
 @dataclass
 class RunContext:
     experiment_id: str
@@ -66,6 +77,7 @@ class RunContext:
     dry_run: bool = False
     verbose: bool = True
     suite: str = "small"
+    repetitions: Optional[int] = None  # CLI override; None → experiment default
     cleaner_cache: dict[str, Cleaner] = field(default_factory=dict)
 
     def get_cleaner(self, model_id: str) -> Cleaner:
@@ -383,9 +395,12 @@ def make_context(
     limit: Optional[int] = None,
     dry_run: bool = False,
     suite: str = "small",
+    repetitions: Optional[int] = None,
 ) -> Iterator[RunContext]:
     if suite not in SUITE_PREFIXES:
         raise ValueError(f"Unknown suite {suite!r}; choose from {sorted(SUITE_PREFIXES)}")
+    if repetitions is not None and repetitions < 1:
+        raise ValueError(f"repetitions must be >= 1, got {repetitions}")
     experiment_id = str(uuid.uuid4())
     with connect() as conn:
         ctx = RunContext(
@@ -395,6 +410,7 @@ def make_context(
             limit=limit,
             dry_run=dry_run,
             suite=suite,
+            repetitions=repetitions,
         )
         ctx.log(f"=== Experiment {experiment_name} ({experiment_id}) suite={suite} ===")
         yield ctx

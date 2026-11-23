@@ -210,6 +210,16 @@ def check_scoring() -> None:
     print("  scoring: OK (rename vs suggest + jsonl cascade)")
 
 
+def check_suite_repetitions() -> None:
+    from llm_cleaner.core import suite_repetitions
+
+    assert suite_repetitions("small") == 3
+    assert suite_repetitions("large") == 1
+    assert suite_repetitions("all") == 1
+    assert suite_repetitions("large", large=2) == 2
+    print("  suite_reps: OK (small=3, large/all=1)")
+
+
 def main() -> int:
     print("Running offline self-check...")
     check_prompts()
@@ -219,6 +229,7 @@ def main() -> int:
     check_experiments()
     check_seed()
     check_scoring()
+    check_suite_repetitions()
     print("\nAll offline checks passed.")
     print("To actually run an experiment you still need:")
     print("  1. docker compose up -d postgres   (or a local Postgres)")
