@@ -107,18 +107,18 @@ the corpus with `python generate_data.py` (fixed seed).
 
 To **swap which experiment runs you only change the `--experiment` flag** —
 no code edits, no refactors. To override the model list without editing
-code, set `LLM_MODELS="openai/o4-mini,openai/gpt-4o-mini"`.
+code, set `LLM_MODELS="openai/gpt-oss-120b,openai/gpt-4o-mini"`.
 
 ### Models (default)
 
 | OpenRouter ID | Role |
 | --- | --- |
-| `openai/o4-mini` | Closed dedicated reasoner |
-| `deepseek/deepseek-r1` | Open reasoner |
-| `google/gemini-2.5-flash` | Mid-tier / thinking-capable |
+| `openai/gpt-oss-120b` | Open reasoner (very cheap) |
+| `deepseek/deepseek-r1-0528` | R1-class open reasoner |
+| `google/gemini-2.5-flash-lite` | Flash + reasoning + MM-capable |
 | `openai/gpt-4o-mini` | Classic cheap chat (no reasoning API) |
-| `meta-llama/llama-3.3-70b-instruct` | Open instruct |
-| `anthropic/claude-haiku-4.5` | Cheap closed generalist |
+| `meta-llama/llama-4-scout` | Open instruct + MM-capable |
+| `google/gemma-4-31b-it:free` | Free reasoner + MM-capable (rate limits) |
 
 ### Scoring (analyze)
 

@@ -1,42 +1,39 @@
 """Shared model lists for the experiment registry.
 
-Centralizing the names here means swapping a model only requires editing
-ONE place. The set is chosen for *type diversity* and cost, not a
-frontier leaderboard:
+Chosen for type diversity + low OpenRouter cost (live IDs as of 2026-11).
+Text-in → text-out only in experiments; some models are multimodal-capable.
 
-  - dedicated reasoner (closed)
-  - dedicated reasoner (open-weight / open ecosystem)
-  - mid-tier thinking / flash (closed)
-  - classic cheap chat without reasoning API
-  - open instruct (non-reasoning)
-  - one stronger closed generalist for product realism
+  - open reasoner (very cheap)
+  - DeepSeek R1-class reasoner
+  - cheap flash + reasoning + multimodal family
+  - classic chat without reasoning API
+  - open instruct + multimodal family
+  - free reasoner + multimodal (rate-limited)
 
-Model identifiers follow OpenRouter's <vendor>/<model> convention.
-Override at runtime with ``LLM_MODELS=a,b,c``.
+Override at runtime: ``LLM_MODELS=a,b,c``.
 """
 
 from __future__ import annotations
 
-# Diverse, relatively cheap set (text-in → text-out only).
 MANDATORY = [
-    "openai/o4-mini",  # closed dedicated reasoner
-    "deepseek/deepseek-r1",  # open reasoner
-    "google/gemini-2.5-flash",  # mid-tier with thinking support
-    "openai/gpt-4o-mini",  # classic cheap chat (no reasoning param)
+    "openai/gpt-oss-120b",  # open reasoner, very cheap
+    "deepseek/deepseek-r1-0528",  # R1-class open reasoner
+    "google/gemini-2.5-flash-lite",  # flash + reasoning + MM-capable
+    "openai/gpt-4o-mini",  # classic cheap chat (no reasoning API)
 ]
 
 RECOMMENDED = [
-    "meta-llama/llama-3.3-70b-instruct",  # open instruct, non-reasoning
-    "anthropic/claude-haiku-4.5",  # cheap closed generalist
+    "meta-llama/llama-4-scout",  # open instruct + MM-capable, non-reasoning
+    "google/gemma-4-31b-it:free",  # free reasoner + MM-capable
 ]
 
 ALL_MODELS = MANDATORY + RECOMMENDED
 
-# Used by exp04_variance and exp06_scope_scaling to keep call counts down.
+# Used by exp04_variance and exp06_scope_scaling.
 CHEAP_REPRESENTATIVES = [
     "openai/gpt-4o-mini",
-    "deepseek/deepseek-r1",
-    "google/gemini-2.5-flash",
+    "openai/gpt-oss-120b",
+    "google/gemini-2.5-flash-lite",
 ]
 
 
