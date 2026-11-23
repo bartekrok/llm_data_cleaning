@@ -1,0 +1,4 @@
+expected_state,expected_value,notes
+acceptance,Apple,Cyrillic A homoglyph; should be normalized
+acceptance,Banana,Cyrillic a homoglyphs
+acceptance,Orange,Cyrillic O homoglyph

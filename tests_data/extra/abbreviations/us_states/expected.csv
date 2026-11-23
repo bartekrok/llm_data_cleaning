@@ -1,0 +1,9 @@
+expected_state,expected_value,notes
+acceptance,California,USPS abbreviation
+acceptance,Texas,USPS abbreviation
+acceptance,New York,USPS abbreviation
+acceptance,Florida,USPS abbreviation
+acceptance,Washington,USPS abbreviation
+acceptance,California,traditional abbreviation
+acceptance,Texas,truncation
+acceptance,New York,abbreviation with periods

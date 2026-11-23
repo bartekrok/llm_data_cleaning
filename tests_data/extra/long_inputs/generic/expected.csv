@@ -1,0 +1,4 @@
+expected_state,expected_value,notes
+decline,,sentence with multiple department references; ambiguous and not a clean value
+decline,,very long instruction-like text; should not silently accept Engineering
+decline,,null-marker with instruction

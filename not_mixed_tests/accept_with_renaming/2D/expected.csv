@@ -1,0 +1,3 @@
+expected_state,expected_value,notes
+acceptance,Software Engineer,Dev -> Software Engineer
+acceptance,Manager,Manager!@# -> Manager (punctuation noise)

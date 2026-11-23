@@ -1,0 +1,5 @@
+expected_state,expected_value,notes
+suggest,Pineapple,common fruit not in scope
+suggest,Kiwi,common fruit not in scope
+suggest,Dragonfruit,exotic fruit not in scope
+suggest,Lychee,exotic fruit not in scope

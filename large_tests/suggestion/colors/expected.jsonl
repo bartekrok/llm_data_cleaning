@@ -1,0 +1,115 @@
+{"raw_value": "Alice Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Aqua", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Aquamarine", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Azure", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Beige", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Bisque", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Black", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Blanched Almond", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Blue Violet", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Burlywood", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Cadet Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Chartreuse", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Chocolate", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Coral", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Cornflower Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Cornsilk", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Cyan", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dark Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dark Cyan", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dark Goldenrod", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dark Gray", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dark Green", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dark Khaki", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dark Magenta", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dark Olive Green", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dark Orange", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dark Orchid", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dark Red", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dark Salmon", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dark Sea Green", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dark Slate Gray", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dark Turquoise", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dark Violet", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Deep Pink", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Deep Sky Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dim Gray", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Dodger Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Firebrick", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Floral White", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Forest Green", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Fuchsia", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Gainsboro", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Ghost White", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Gold", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Gray", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Green", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Green Yellow", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Honeydew", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Hot Pink", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Indian Red", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Indigo", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Ivory", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Khaki", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Lavender Blush", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Lawn Green", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Light Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Light Coral", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Light Cyan", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Light Goldenrod", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Light Gray", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Light Green", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Light Pink", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Light Salmon", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Light Sea Green", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Light Sky Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Light Slate Gray", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Light Steel Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Light Yellow", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Lime Green", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Linen", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Medium Aquamarine", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Medium Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Medium Purple", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Medium Sea Green", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Medium Slate Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Medium Spring Green", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Medium Turquoise", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Medium Violet Red", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Mint Cream", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Misty Rose", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Moccasin", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Navajo White", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Olive", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Orange Red", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Orchid", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Pale Goldenrod", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Pale Turquoise", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Pale Violet Red", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Papaya Whip", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Peach Puff", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Pink", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Plum", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Powder Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Purple", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Rebecca Purple", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Red", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Rosy Brown", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Royal Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Saddle Brown", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Sandy Brown", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Sienna", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Silver", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Sky Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Slate Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Slate Gray", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Snow", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Steel Blue", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Tan", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Teal", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Thistle", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Turquoise", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Violet", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "Wheat", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}
+{"raw_value": "White Smoke", "allowed": [{"state": "suggest", "value": {"mode": "same_referent_as_input"}}]}

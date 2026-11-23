@@ -1,0 +1,2 @@
+expected_state,expected_value,notes
+decline,,"'Unknown' is a meta-token; scope already has 'Other' for unspecified"

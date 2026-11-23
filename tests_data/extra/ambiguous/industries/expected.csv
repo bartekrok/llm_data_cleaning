@@ -1,0 +1,6 @@
+expected_state,expected_value,notes
+acceptance,Banking,Finance is the parent term but Banking is the only matching scope item
+acceptance,Technology,Tech is a clear abbreviation
+acceptance,Retail,Shop maps to Retail
+acceptance,Healthcare,Hospital is a subset of Healthcare
+decline,,Other is a meta-token with no industry meaning

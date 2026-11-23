@@ -1,0 +1,11 @@
+expected_state,expected_value,notes
+acceptance,France,1 edit (swap)
+acceptance,France,1 edit (swap)
+acceptance,France,2 edits
+acceptance,France,3 edits (still recoverable)
+acceptance,Italy,1 edit (deletion)
+acceptance,Italy,1 edit (substitution)
+acceptance,Italy,3 edits
+acceptance,Germany,1 edit (deletion)
+acceptance,Germany,1 edit (transposition)
+acceptance,Germany,2 edits (double n)

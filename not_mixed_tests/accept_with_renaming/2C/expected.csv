@@ -1,0 +1,4 @@
+expected_state,expected_value,notes
+acceptance,California,typo: Calyfornia -> California
+acceptance,Texas,abbreviation TX
+acceptance,New York,abbreviation NY

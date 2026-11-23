@@ -1,0 +1,7 @@
+expected_state,expected_value,notes
+acceptance,Red,leading/trailing whitespace
+acceptance,Red,all caps
+acceptance,Red,mixed case
+acceptance,Blue,wrapped in quotes
+acceptance,Green,trailing punctuation
+acceptance,Yellow,single quotes wrapper

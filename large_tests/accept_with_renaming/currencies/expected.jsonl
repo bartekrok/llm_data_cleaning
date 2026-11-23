@@ -1,0 +1,60 @@
+{"raw_value": "US DOLLAR", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["US Dollar"]}}]}
+{"raw_value": "EEuro", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Euro"]}}]}
+{"raw_value": "JPY", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Japanese Yen"]}}]}
+{"raw_value": "Briitish Pound", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["British Pound"]}}]}
+{"raw_value": "SWISS FRANC", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Swiss Franc"]}}]}
+{"raw_value": "CANADIAN DOLLAR", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Canadian Dollar"]}}]}
+{"raw_value": "AUD", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Australian Dollar"]}}]}
+{"raw_value": "NZD", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["New Zealand Dollar"]}}]}
+{"raw_value": "Chinese Yuaan", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Chinese Yuan"]}}]}
+{"raw_value": "Indian uRpee", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Indian Rupee"]}}]}
+{"raw_value": "Braziliann Real", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Brazilian Real"]}}]}
+{"raw_value": "Mexicn Peso", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Mexican Peso"]}}]}
+{"raw_value": "Russian Rbule", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Russian Ruble"]}}]}
+{"raw_value": "South Korean Won??", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["South Korean Won"]}}]}
+{"raw_value": "SGD", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Singapore Dollar"]}}]}
+{"raw_value": "Hong Kong Dollar!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Hong Kong Dollar"]}}]}
+{"raw_value": "Norwegian KKrone", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Norwegian Krone"]}}]}
+{"raw_value": "SEK", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Swedish Krona"]}}]}
+{"raw_value": "Danish Krone!!", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Danish Krone"]}}]}
+{"raw_value": "polish zloty", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Polish Zloty"]}}]}
+{"raw_value": "CZECH KORUNA", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Czech Koruna"]}}]}
+{"raw_value": "hungarian forint", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Hungarian Forint"]}}]}
+{"raw_value": "Romaniian Leu", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Romanian Leu"]}}]}
+{"raw_value": "bulgarian lev", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Bulgarian Lev"]}}]}
+{"raw_value": "turkish lira", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Turkish Lira"]}}]}
+{"raw_value": "Israeli Shekel***", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Israeli Shekel"]}}]}
+{"raw_value": "Sauddi Riyal", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Saudi Riyal"]}}]}
+{"raw_value": "UAE DDirham", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["UAE Dirham"]}}]}
+{"raw_value": "aQtari Riyal", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Qatari Riyal"]}}]}
+{"raw_value": "KUWAITI DINAR", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Kuwaiti Dinar"]}}]}
+{"raw_value": "EGYPTIAN POUND", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Egyptian Pound"]}}]}
+{"raw_value": "South African Rnad", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["South African Rand"]}}]}
+{"raw_value": "NGN", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Nigerian Naira"]}}]}
+{"raw_value": "Kenyan Shilling##", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Kenyan Shilling"]}}]}
+{"raw_value": "Moroccan Dirhaam", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Moroccan Dirham"]}}]}
+{"raw_value": "THB", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Thai Baht"]}}]}
+{"raw_value": "Vietnamese Dong***", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Vietnamese Dong"]}}]}
+{"raw_value": "INDONESIAN RUPIAH", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Indonesian Rupiah"]}}]}
+{"raw_value": "MALAYSIAN RINGGIT", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Malaysian Ringgit"]}}]}
+{"raw_value": "Philipppine Peso", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Philippine Peso"]}}]}
+{"raw_value": "Pakistani Ruupee", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Pakistani Rupee"]}}]}
+{"raw_value": "bangladeshi taka", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Bangladeshi Taka"]}}]}
+{"raw_value": "Sri Lankan Rupeee", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Sri Lankan Rupee"]}}]}
+{"raw_value": "CLP", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Chilean Peso"]}}]}
+{"raw_value": "Colombina Peso", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Colombian Peso"]}}]}
+{"raw_value": "Peruvian ol", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Peruvian Sol"]}}]}
+{"raw_value": "Arentine Peso", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Argentine Peso"]}}]}
+{"raw_value": "Uruguyan Peso", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Uruguayan Peso"]}}]}
+{"raw_value": "Ukrainian rHyvnia", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Ukrainian Hryvnia"]}}]}
+{"raw_value": "KAZAKHSTANI TENGE", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Kazakhstani Tenge"]}}]}
+{"raw_value": "GEORGIAN LARI", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Georgian Lari"]}}]}
+{"raw_value": "Armeniaan Dram", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Armenian Dram"]}}]}
+{"raw_value": "AZN", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Azerbaijani Manat"]}}]}
+{"raw_value": "Icelandic Kron", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Icelandic Krona"]}}]}
+{"raw_value": "Craotian Kuna", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Croatian Kuna"]}}]}
+{"raw_value": "Serbian Dianr", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Serbian Dinar"]}}]}
+{"raw_value": "Taiwanese Dollar!@#", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Taiwanese Dollar"]}}]}
+{"raw_value": "Jordannian Dinar", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Jordanian Dinar"]}}]}
+{"raw_value": "Bahraini Dinar??", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Bahraini Dinar"]}}]}
+{"raw_value": "OMR", "allowed": [{"state": "acceptance", "value": {"mode": "one_of", "items": ["Omani Rial"]}}]}
