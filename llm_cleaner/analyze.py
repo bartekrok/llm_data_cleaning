@@ -33,6 +33,7 @@ from typing import Any, Optional
 import pandas as pd
 
 from llm_cleaner.etl import connect
+from llm_cleaner.scoring import score_prediction
 
 
 def _safe_savefig(fig, path: Path) -> None:
@@ -82,7 +83,8 @@ def _load_runs(
 def _load_test_cases() -> pd.DataFrame:
     with connect() as conn, conn.cursor() as cur:
         cur.execute(
-            "SELECT id AS test_case_id, test_name, scenario, expected_state, expected_value "
+            "SELECT id AS test_case_id, test_name, scenario, raw_value, scope, "
+            "expected_state, expected_value "
             "FROM test_cases"
         )
         cols = [c.name for c in cur.description]
@@ -90,10 +92,63 @@ def _load_test_cases() -> pd.DataFrame:
     return pd.DataFrame(rows, columns=cols)
 
 
-def _accuracy_table(df: pd.DataFrame, by: list[str]) -> pd.DataFrame:
+def _rescore_runs(df: pd.DataFrame, cases: pd.DataFrame) -> pd.DataFrame:
+    """Replace run-time exact-match flags with predicate scoring (strict/lenient).
+
+    Primary accuracy columns use *lenient* correctness (any allowed gold entry).
+    Strict accuracy and matched validation tiers are kept as extra columns.
+    """
+    scope_by_id = {}
+    if not cases.empty and "scope" in cases.columns:
+        for _, row in cases.iterrows():
+            scope_by_id[int(row["test_case_id"])] = list(row["scope"] or [])
+
+    strict_flags: list[bool] = []
+    lenient_flags: list[bool] = []
+    tiers: list[Optional[str]] = []
+    failure_modes: list[Optional[str]] = []
+
+    for _, row in df.iterrows():
+        tc_id = row.get("test_case_id")
+        scope: list[str] = []
+        if tc_id is not None and not (isinstance(tc_id, float) and math.isnan(tc_id)):
+            scope = scope_by_id.get(int(tc_id), [])
+
+        pre = row.get("failure_mode")
+        if pre not in {"parse_error", "api_error", "invalid_state", "timeout", "refusal"}:
+            pre = None
+
+        result = score_prediction(
+            test_name=str(row.get("test_name") or ""),
+            raw_value=str(row.get("raw_value") or ""),
+            pred_state=row.get("actual_state"),
+            pred_value=row.get("actual_value"),
+            scope=scope,
+            fallback_expected_state=row.get("expected_state"),
+            fallback_expected_value=row.get("expected_value"),
+            pre_existing_failure=pre,
+        )
+        strict_flags.append(bool(result.is_correct_strict))
+        lenient_flags.append(bool(result.is_correct_lenient))
+        tiers.append(result.matched_tier)
+        failure_modes.append(result.failure_mode)
+
+    out = df.copy()
+    out["is_correct_runtime"] = out["is_correct"]
+    out["failure_mode_runtime"] = out["failure_mode"]
+    out["is_correct_strict"] = strict_flags
+    out["is_correct_lenient"] = lenient_flags
+    out["matched_tier"] = tiers
+    # Primary metric for heatmaps / summary = lenient (paper's main correctness).
+    out["is_correct"] = lenient_flags
+    out["failure_mode"] = failure_modes
+    return out
+
+
+def _accuracy_table(df: pd.DataFrame, by: list[str], correct_col: str = "is_correct") -> pd.DataFrame:
     g = df.groupby(by, dropna=False).agg(
-        n=("is_correct", "size"),
-        correct=("is_correct", "sum"),
+        n=(correct_col, "size"),
+        correct=(correct_col, "sum"),
     ).reset_index()
     g["accuracy"] = g["correct"] / g["n"].clip(lower=1)
     return g
@@ -377,15 +432,21 @@ def analyze_experiment(
     out_dir.mkdir(parents=True, exist_ok=True)
     print(f"Analyzing {len(df)} runs into {out_dir}")
 
-    df = df.merge(_load_test_cases()[["test_case_id", "scenario"]], on="test_case_id", how="left")
+    cases = _load_test_cases()
+    df = df.merge(cases[["test_case_id", "scenario"]], on="test_case_id", how="left")
     df["scenario"] = df["scenario"].fillna("unknown")
+    df = _rescore_runs(df, cases)
 
     df.to_csv(out_dir / "runs_raw.csv", index=False)
 
-    acc_overall = _accuracy_table(df, ["model_name"])
+    acc_overall = _accuracy_table(df, ["model_name"], correct_col="is_correct_lenient")
     acc_overall.to_csv(out_dir / "accuracy_overall.csv", index=False)
+    acc_strict = _accuracy_table(df, ["model_name"], correct_col="is_correct_strict")
+    acc_strict.to_csv(out_dir / "accuracy_overall_strict.csv", index=False)
 
-    acc_model_scenario = _accuracy_table(df, ["model_name", "scenario"])
+    acc_model_scenario = _accuracy_table(
+        df, ["model_name", "scenario"], correct_col="is_correct_lenient"
+    )
     acc_model_scenario.to_csv(out_dir / "accuracy_by_model_scenario.csv", index=False)
     _heatmap(
         acc_model_scenario,
@@ -397,7 +458,9 @@ def analyze_experiment(
     )
 
     if df["prompt_variant"].nunique() > 1:
-        acc_model_prompt = _accuracy_table(df, ["model_name", "prompt_variant"])
+        acc_model_prompt = _accuracy_table(
+            df, ["model_name", "prompt_variant"], correct_col="is_correct_lenient"
+        )
         acc_model_prompt.to_csv(out_dir / "accuracy_by_model_prompt.csv", index=False)
         _heatmap(
             acc_model_prompt,
@@ -409,7 +472,7 @@ def analyze_experiment(
         )
 
     if df["mode"].nunique() > 1:
-        acc_mode = _accuracy_table(df, ["model_name", "mode"])
+        acc_mode = _accuracy_table(df, ["model_name", "mode"], correct_col="is_correct_lenient")
         acc_mode.to_csv(out_dir / "accuracy_by_mode.csv", index=False)
         _heatmap(
             acc_mode,
@@ -483,6 +546,15 @@ def analyze_experiment(
     json_compliance["json_ok_rate"] = 1 - json_compliance["n_parse_errors"] / json_compliance["n_runs"].clip(lower=1)
     json_compliance.to_csv(out_dir / "json_compliance.csv", index=False)
 
+    tier_dist = (
+        df["matched_tier"]
+        .fillna("incorrect")
+        .value_counts(dropna=False)
+        .rename_axis("matched_tier")
+        .reset_index(name="n")
+    )
+    tier_dist.to_csv(out_dir / "validation_tiers.csv", index=False)
+
     with (out_dir / "summary.json").open("w", encoding="utf-8") as f:
         json.dump(
             {
@@ -491,8 +563,11 @@ def analyze_experiment(
                 "n_runs": int(len(df)),
                 "n_models": int(df["model_name"].nunique()),
                 "n_test_cases": int(df["test_name"].nunique()),
-                "overall_accuracy": float(df["is_correct"].astype(float).mean()),
+                "overall_accuracy_lenient": float(df["is_correct_lenient"].astype(float).mean()),
+                "overall_accuracy_strict": float(df["is_correct_strict"].astype(float).mean()),
+                "overall_accuracy": float(df["is_correct_lenient"].astype(float).mean()),
                 "total_cost_usd": float(df["cost_usd"].fillna(0).sum()),
+                "scoring": "predicate_jsonl_cascade_v1",
             },
             f,
             indent=2,

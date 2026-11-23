@@ -1,10 +1,9 @@
 # LLM Data Cleaning — master's thesis experiment harness
 
-Compares 6 LLMs (GPT-5.5, DeepSeek V4 Pro, Claude Sonnet 4.6, Gemini 3.1 Pro,
-Llama 3.3 70B, GPT-4o-mini) and 2 non-LLM baselines (rapidfuzz, sentence-transformers)
-on four data-cleaning scenarios: `accept_rename`, `accept_no_rename`,
-`decline`, `suggest`. See `llm_data_cleaning_paper_*.plan.md` for the full
-design.
+Compares 6 LLMs chosen for **type diversity and cost** (reasoners, flash/thinking,
+cheap chat, open instruct, cheap closed generalist) plus 2 non-LLM baselines
+(rapidfuzz, sentence-transformers) on `accept_rename`, `accept_no_rename`,
+`decline`, `suggest`. See `llm_cleaner/experiments/_models.py` for IDs.
 
 ## Repository layout
 
@@ -108,7 +107,28 @@ the corpus with `python generate_data.py` (fixed seed).
 
 To **swap which experiment runs you only change the `--experiment` flag** —
 no code edits, no refactors. To override the model list without editing
-code, set `LLM_MODELS="openai/gpt-5.5,anthropic/claude-sonnet-4.6"`.
+code, set `LLM_MODELS="openai/o4-mini,openai/gpt-4o-mini"`.
+
+### Models (default)
+
+| OpenRouter ID | Role |
+| --- | --- |
+| `openai/o4-mini` | Closed dedicated reasoner |
+| `deepseek/deepseek-r1` | Open reasoner |
+| `google/gemini-2.5-flash` | Mid-tier / thinking-capable |
+| `openai/gpt-4o-mini` | Classic cheap chat (no reasoning API) |
+| `meta-llama/llama-3.3-70b-instruct` | Open instruct |
+| `anthropic/claude-haiku-4.5` | Cheap closed generalist |
+
+### Scoring (analyze)
+
+`python harness.py analyze ...` re-scores runs against on-disk gold
+(`expected.jsonl` preferred). For `same_referent_as_input` (suggest) it uses
+a deterministic cascade: normalized equality → aliases → Levenshtein ≥ 0.85.
+Reports **lenient** accuracy (any `allowed[]` entry; primary heatmaps) and
+**strict** accuracy (first / preferred entry), plus `validation_tiers.csv`.
+Acceptance with a value not in scope is `hallucinated_scope`; treating a
+scope surface-variant as suggest is `wrong_state`.
 
 ## Adding a new experiment
 

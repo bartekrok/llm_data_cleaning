@@ -1,35 +1,42 @@
 """Shared model lists for the experiment registry.
 
 Centralizing the names here means swapping a model only requires editing
-ONE place. The plan asks for 6 models total: 4 mandatory + 2 recommended.
+ONE place. The set is chosen for *type diversity* and cost, not a
+frontier leaderboard:
+
+  - dedicated reasoner (closed)
+  - dedicated reasoner (open-weight / open ecosystem)
+  - mid-tier thinking / flash (closed)
+  - classic cheap chat without reasoning API
+  - open instruct (non-reasoning)
+  - one stronger closed generalist for product realism
 
 Model identifiers follow OpenRouter's <vendor>/<model> convention.
+Override at runtime with ``LLM_MODELS=a,b,c``.
 """
 
 from __future__ import annotations
 
-# Plan §2 mandatory set
+# Diverse, relatively cheap set (text-in → text-out only).
 MANDATORY = [
-    "openai/gpt-5.5",
-    "deepseek/deepseek-v4-pro",
-    "anthropic/claude-sonnet-4.6",
-    "google/gemini-3.1-pro-preview",
+    "openai/o4-mini",  # closed dedicated reasoner
+    "deepseek/deepseek-r1",  # open reasoner
+    "google/gemini-2.5-flash",  # mid-tier with thinking support
+    "openai/gpt-4o-mini",  # classic cheap chat (no reasoning param)
 ]
 
-# Plan §2 recommended additions
 RECOMMENDED = [
-    "meta-llama/llama-3.3-70b-instruct",
-    "openai/gpt-4o-mini",
+    "meta-llama/llama-3.3-70b-instruct",  # open instruct, non-reasoning
+    "anthropic/claude-haiku-4.5",  # cheap closed generalist
 ]
 
 ALL_MODELS = MANDATORY + RECOMMENDED
 
-# Cheapest representative from each major provider (used by exp04_variance
-# and exp06_scope_scaling to keep call counts reasonable).
+# Used by exp04_variance and exp06_scope_scaling to keep call counts down.
 CHEAP_REPRESENTATIVES = [
     "openai/gpt-4o-mini",
-    "deepseek/deepseek-v4-pro",
-    "google/gemini-3.1-pro-preview",
+    "deepseek/deepseek-r1",
+    "google/gemini-2.5-flash",
 ]
 
 

@@ -134,6 +134,82 @@ def check_seed() -> None:
         print(f"    {s}: {k}")
 
 
+def check_scoring() -> None:
+    from llm_cleaner.scoring import score_prediction
+
+    # accept_with_renaming: surface variant must be acceptance + canonical scope
+    scope = ["Smartwatch"]
+    r = score_prediction(
+        test_name="synthetic/smart:0",
+        raw_value="smart watch",
+        pred_state="acceptance",
+        pred_value="Smartwatch",
+        scope=scope,
+        fallback_expected_state="acceptance",
+        fallback_expected_value="Smartwatch",
+    )
+    assert r.is_correct_strict and r.is_correct_lenient
+
+    # suggest-as-add when referent is already in scope = wrong
+    r2 = score_prediction(
+        test_name="synthetic/smart:0",
+        raw_value="smart watch",
+        pred_state="suggest",
+        pred_value="Smart Watch",
+        scope=scope,
+        fallback_expected_state="acceptance",
+        fallback_expected_value="Smartwatch",
+    )
+    assert not r2.is_correct_lenient and r2.failure_mode == "wrong_state"
+
+    # suggest open class: normalized / fuzzy match to input, not in scope
+    fruits = ["Apple", "Banana"]
+    r3 = score_prediction(
+        test_name="synthetic/pear:0",
+        raw_value="Pear",
+        pred_state="suggest",
+        pred_value="pear",
+        scope=fruits,
+        fallback_expected_state="suggest",
+        fallback_expected_value="Pear",
+    )
+    assert r3.is_correct_lenient and r3.matched_tier == "normalized"
+
+    r4 = score_prediction(
+        test_name="synthetic/pear:0",
+        raw_value="Pear",
+        pred_state="acceptance",
+        pred_value="Apple",
+        scope=fruits,
+        fallback_expected_state="suggest",
+        fallback_expected_value="Pear",
+    )
+    assert not r4.is_correct_lenient and r4.failure_mode == "wrong_state"
+
+    r5 = score_prediction(
+        test_name="synthetic/pear:0",
+        raw_value="Pear",
+        pred_state="acceptance",
+        pred_value="Pear",
+        scope=fruits,
+        fallback_expected_state="suggest",
+        fallback_expected_value="Pear",
+    )
+    assert not r5.is_correct_lenient and r5.failure_mode == "hallucinated_scope"
+
+    # Real jsonl suggest folder
+    r6 = score_prediction(
+        test_name="large_tests/suggestion/countries:0",
+        raw_value="Afghanistan",
+        pred_state="suggest",
+        pred_value="Afghanistan",
+        scope=["Poland", "Germany"],
+    )
+    assert r6.is_correct_lenient, r6
+
+    print("  scoring: OK (rename vs suggest + jsonl cascade)")
+
+
 def main() -> int:
     print("Running offline self-check...")
     check_prompts()
@@ -142,6 +218,7 @@ def main() -> int:
     check_failure_classifier()
     check_experiments()
     check_seed()
+    check_scoring()
     print("\nAll offline checks passed.")
     print("To actually run an experiment you still need:")
     print("  1. docker compose up -d postgres   (or a local Postgres)")

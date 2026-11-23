@@ -180,12 +180,14 @@ def classify_failure(
         return True, None
 
     if expected_state == "suggest":
+        # Provisional run-time check only. Authoritative scoring for suggest
+        # (normalized / alias / fuzzy cascade) happens in analyze via
+        # llm_cleaner.scoring against expected.jsonl.
         if not av:
             return False, "wrong_rename"
-        if expected_value:
-            ev = expected_value.strip().lower()
-            if av.lower() != ev:
-                return True, None
+        scope_lower = {s.strip().lower() for s in scope}
+        if av.lower() in scope_lower:
+            return False, "wrong_state"
         return True, None
 
     return False, "unknown_expected_state"
