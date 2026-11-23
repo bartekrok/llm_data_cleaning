@@ -86,9 +86,19 @@ class RunContext:
         if model_id == BASELINE_FUZZY:
             cleaner: Cleaner = FuzzyCleaner()
         elif model_id == BASELINE_EMBED:
-            cleaner = EmbeddingCleaner()
+            from llm_cleaner.clients.mock_llm import mock_mode_enabled, MockEmbeddingCleaner
+
+            if mock_mode_enabled():
+                cleaner = MockEmbeddingCleaner()
+            else:
+                cleaner = EmbeddingCleaner()
         else:
-            cleaner = OpenRouterCleaner(model_id=model_id)
+            from llm_cleaner.clients.mock_llm import mock_mode_enabled, MockOpenRouterCleaner
+
+            if mock_mode_enabled():
+                cleaner = MockOpenRouterCleaner(model_id)
+            else:
+                cleaner = OpenRouterCleaner(model_id=model_id)
         self.cleaner_cache[model_id] = cleaner
         return cleaner
 

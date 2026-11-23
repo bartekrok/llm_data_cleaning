@@ -17,11 +17,12 @@ from llm_cleaner.prompts import P0_BASELINE
 
 def run(ctx: RunContext) -> None:
     cases = load_cases(ctx, scenarios=["scope_scaling"])
+    reps = ctx.repetitions if ctx.repetitions is not None else 3
     run_matrix(
         ctx,
         models=CHEAP_REPRESENTATIVES,
         prompts=[P0_BASELINE],
         cases=cases,
         temperatures=[0.1],
-        repetitions=3,
+        repetitions=reps,
     )

@@ -19,6 +19,7 @@ from llm_cleaner.prompts import P0_BASELINE
 
 def run(ctx: RunContext) -> None:
     cases = load_cases(ctx, scenarios=["mixed"])
+    reps = ctx.repetitions if ctx.repetitions is not None else 3
 
     # First: single-mode baseline over the mixed cases (so we can compare).
     run_matrix(
@@ -27,7 +28,7 @@ def run(ctx: RunContext) -> None:
         prompts=[P0_BASELINE],
         cases=cases,
         temperatures=[0.1],
-        repetitions=3,
+        repetitions=reps,
     )
 
     # Group cases by the parent batch (everything before ':<idx>').
@@ -44,7 +45,7 @@ def run(ctx: RunContext) -> None:
         prompts=[P0_BASELINE],
         batches=batches,
         temperatures=[0.1],
-        repetitions=3,
+        repetitions=reps,
         shuffle_orders=4,
         seed=42,
         mode_label="batch",

@@ -27,11 +27,12 @@ SCENARIOS = (
 
 def run(ctx: RunContext) -> None:
     cases = load_cases(ctx, scenarios=SCENARIOS)
+    reps = ctx.repetitions if ctx.repetitions is not None else 1
     run_matrix(
         ctx,
         models=[BASELINE_FUZZY, BASELINE_EMBED],
         prompts=[P0_BASELINE],  # ignored by baselines but the runner expects a value
         cases=cases,
         temperatures=[0.0],
-        repetitions=1,
+        repetitions=reps,
     )

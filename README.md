@@ -47,10 +47,16 @@ cheap chat, open instruct, cheap closed generalist) plus 2 non-LLM baselines
    pip install -r requirements.txt
    ```
 4. **Seed the test cases**: `python harness.py seed`
-5. **Smoke test the pipeline**: `python harness.py run --experiment exp09_smoke`
-   (1 model x 3 cases x 1 rep, costs roughly $0.001)
-6. **Analyze the smoke run**:
-   `python harness.py analyze --experiment-id <uuid printed in step 5> --out reports/`
+5. **Zero-cost e2e preflight** (mock LLM, real Postgres — run this before paid jobs):
+   ```powershell
+   python harness.py e2e
+   # or: python tools/e2e_preflight.py
+   ```
+   Asserts every experiment writes `runs` rows (models/prompts/modes/confidence)
+   and that `analyze` works. Spends **$0** on OpenRouter (`LLM_MOCK=1`).
+6. **Optional live smoke** (tiny real API spend): `python harness.py run --experiment exp09_smoke`
+7. **Analyze**:
+   `python harness.py analyze --experiment-id <uuid> --out reports/`
 
 ## Running an experiment
 

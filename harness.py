@@ -5,9 +5,11 @@ Subcommands:
     run          Execute one experiment by name (writes to the `runs` table).
     analyze      Compute metrics and write CSVs/PNGs for one experiment_id.
     list         List registered experiments and known scenarios.
+    e2e          Zero-cost mock preflight: every experiment writes real DB rows.
 
 Examples:
     python harness.py seed
+    python harness.py e2e                      # run before spending API budget
     python harness.py run --experiment exp09_smoke
     python harness.py run --experiment exp01_core_matrix --limit 10
     python harness.py run --experiment exp01_core_matrix --suite large
@@ -121,6 +123,20 @@ def cmd_list(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_e2e(args: argparse.Namespace) -> int:
+    """Delegate to tools.e2e_preflight (forces LLM_MOCK=1, $0 API spend)."""
+    from tools.e2e_preflight import main as e2e_main
+
+    forwarded: list[str] = ["--limit", str(args.limit), "--suite", args.suite, "--out", args.out]
+    if args.skip_seed:
+        forwarded.append("--skip-seed")
+    if args.keep_runs:
+        forwarded.append("--keep-runs")
+    if args.experiments:
+        forwarded.extend(["--experiments", args.experiments])
+    return e2e_main(forwarded)
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog="harness.py", description=__doc__)
     sub = parser.add_subparsers(dest="cmd", required=True)
@@ -154,6 +170,18 @@ def build_parser() -> argparse.ArgumentParser:
 
     p_list = sub.add_parser("list", help="List registered experiments")
     p_list.set_defaults(func=cmd_list)
+
+    p_e2e = sub.add_parser(
+        "e2e",
+        help="Zero-cost mock preflight: seed + all experiments + DB asserts + analyze",
+    )
+    p_e2e.add_argument("--limit", type=int, default=2, help="Cases per experiment (default 2)")
+    p_e2e.add_argument("--suite", choices=("small", "large", "all"), default="small")
+    p_e2e.add_argument("--skip-seed", action="store_true")
+    p_e2e.add_argument("--keep-runs", action="store_true")
+    p_e2e.add_argument("--experiments", default=None, help="Comma-separated subset")
+    p_e2e.add_argument("--out", default="reports/e2e_preflight")
+    p_e2e.set_defaults(func=cmd_e2e)
 
     return parser
 

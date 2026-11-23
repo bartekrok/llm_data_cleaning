@@ -22,6 +22,7 @@ def run(ctx: RunContext) -> None:
         scenarios=["accept_rename", "decline", "suggest"],
     )
     cases = cases[: ctx.limit or 3]
+    reps = ctx.repetitions if ctx.repetitions is not None else 1
 
     run_matrix(
         ctx,
@@ -29,5 +30,5 @@ def run(ctx: RunContext) -> None:
         prompts=[P0_BASELINE],
         cases=cases,
         temperatures=[0.1],
-        repetitions=1,
+        repetitions=reps,
     )

@@ -24,11 +24,12 @@ SCENARIOS = (
 def run(ctx: RunContext) -> None:
     cases = load_cases(ctx, scenarios=SCENARIOS)
     cases = cases[: ctx.limit or 20]
+    reps = ctx.repetitions if ctx.repetitions is not None else 3
     run_matrix(
         ctx,
         models=models_or_env_override(),
         prompts=[P_WITH_CONFIDENCE],
         cases=cases,
         temperatures=[0.1],
-        repetitions=3,
+        repetitions=reps,
     )

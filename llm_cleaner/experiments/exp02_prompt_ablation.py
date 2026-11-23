@@ -29,11 +29,12 @@ REPRESENTATIVE_SCENARIOS = (
 def run(ctx: RunContext) -> None:
     cases = load_cases(ctx, scenarios=REPRESENTATIVE_SCENARIOS)
     cases = cases[: ctx.limit or 24]
+    reps = ctx.repetitions if ctx.repetitions is not None else 3
     run_matrix(
         ctx,
         models=models_or_env_override(),
         prompts=[P0_BASELINE, P1_FEW_SHOT, P2_COT, P3_STRICT_SCHEMA, P4_MINIMAL],
         cases=cases,
         temperatures=[0.1],
-        repetitions=3,
+        repetitions=reps,
     )
